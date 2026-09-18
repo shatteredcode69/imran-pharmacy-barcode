@@ -2,16 +2,16 @@
 
 :root {
     font-family: Manrope, sans-serif;
-    color: #17211f;
-    background: #f4f1e9;
+    color: #20253a;
+    background: #f7f5f0;
     font-synthesis: none;
     --ink: #17211f;
     --muted: #71807a;
-    --green: #176b5b;
-    --green-dark: #0e4d42;
-    --mint: #dceee6;
-    --orange: #e8913a;
-    --line: #dfe5df;
+    --green: #4657a8;
+    --green-dark: #33428d;
+    --mint: #e5e9fb;
+    --orange: #e87961;
+    --line: #e3e5ee;
     --paper: #fffdf8
 }
 
@@ -21,7 +21,7 @@
 
 body {
     margin: 0;
-    background: radial-gradient(circle at 90% 3%, #e4efe7 0, transparent 25rem), #f4f1e9
+    background: radial-gradient(circle at 90% 3%, #f9ddd4 0, transparent 25rem), #f7f5f0
 }
 
 button,
@@ -175,7 +175,7 @@ button {
     height: 170px;
     border-radius: 50%;
     background: var(--green);
-    color: #dceee6;
+    color: #f8d8c9;
     display: grid;
     place-items: center;
     overflow: hidden
@@ -326,7 +326,7 @@ button {
 .primary-button {
     color: #fff;
     background: var(--green);
-    box-shadow: 0 7px 16px #176b5b22
+    box-shadow: 0 7px 16px #4657a822
 }
 
 .primary-button:hover {
@@ -585,7 +585,7 @@ button {
 .form-dialog input:focus,
 .lookup-box:focus-within {
     border-color: var(--green);
-    box-shadow: 0 0 0 3px #176b5b19
+    box-shadow: 0 0 0 3px #4657a819
 }
 
 .optional {
