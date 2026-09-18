@@ -37,7 +37,7 @@ function App() {
     const stored = localStorage.getItem(STORAGE_KEY);
     const savedSerial = Number(localStorage.getItem(SERIAL_KEY));
     if (stored) setMedicines(JSON.parse(stored));
-    else fetch('/medicines.json').then((response) => response.json()).then((data) => setMedicines(data.map((item) => makeMedicine(item.name, item.id))));
+    else fetch(`${import.meta.env.BASE_URL}medicines.json`).then((response) => response.json()).then((data) => setMedicines(data.map((item) => makeMedicine(item.name, item.id))));
     if (savedSerial > 0) setNextSerial(savedSerial);
     setReady(true);
   }, []);
