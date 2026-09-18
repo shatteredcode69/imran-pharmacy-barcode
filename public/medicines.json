@@ -1,0 +1,7634 @@
+[
+  {
+    "id": 1,
+    "name": "Admira 500mg cap"
+  },
+  {
+    "id": 2,
+    "name": "Rigix tab"
+  },
+  {
+    "id": 3,
+    "name": "Zavget 5mg tab"
+  },
+  {
+    "id": 4,
+    "name": "Acabel 8mg tab"
+  },
+  {
+    "id": 5,
+    "name": "Cobolmin tab"
+  },
+  {
+    "id": 6,
+    "name": "Tenormin 50mg tab"
+  },
+  {
+    "id": 7,
+    "name": "Risek 20mg cap"
+  },
+  {
+    "id": 8,
+    "name": "Cp zaf 250mg tab"
+  },
+  {
+    "id": 9,
+    "name": "Moxiget 400mg tab"
+  },
+  {
+    "id": 10,
+    "name": "Ismo 20mg tab"
+  },
+  {
+    "id": 11,
+    "name": "Tranlin 2mg tab"
+  },
+  {
+    "id": 12,
+    "name": "Telsarta A 5/80mg tab"
+  },
+  {
+    "id": 13,
+    "name": "Myteka 4mg shactes"
+  },
+  {
+    "id": 14,
+    "name": "Platrid 75mg tab"
+  },
+  {
+    "id": 15,
+    "name": "Focin 500mg cap"
+  },
+  {
+    "id": 16,
+    "name": "Provate S ointment"
+  },
+  {
+    "id": 17,
+    "name": "Sambro 3mg tab"
+  },
+  {
+    "id": 18,
+    "name": "Combivair 200mg cap"
+  },
+  {
+    "id": 19,
+    "name": "Celbex 100mg cap"
+  },
+  {
+    "id": 20,
+    "name": "Reltus sup"
+  },
+  {
+    "id": 21,
+    "name": "Pedrol sup"
+  },
+  {
+    "id": 22,
+    "name": "Amdaquin sup"
+  },
+  {
+    "id": 23,
+    "name": "Freehale 5mg tab"
+  },
+  {
+    "id": 24,
+    "name": "Avorek 50mg tab"
+  },
+  {
+    "id": 25,
+    "name": "Fusil cream large"
+  },
+  {
+    "id": 26,
+    "name": "Claforan 0.25g inj"
+  },
+  {
+    "id": 27,
+    "name": "Valtec AM 5/160mg tab"
+  },
+  {
+    "id": 28,
+    "name": "Esante 20mg cap"
+  },
+  {
+    "id": 29,
+    "name": "Femee tab"
+  },
+  {
+    "id": 30,
+    "name": "Methachlor eye ointment"
+  },
+  {
+    "id": 31,
+    "name": "Nexum 20mg cap"
+  },
+  {
+    "id": 32,
+    "name": "Broxol sup"
+  },
+  {
+    "id": 33,
+    "name": "Kenadex tab"
+  },
+  {
+    "id": 34,
+    "name": "Stmom 200mg tab"
+  },
+  {
+    "id": 35,
+    "name": "Cefim 200mg tab"
+  },
+  {
+    "id": 36,
+    "name": "Oxaquin 400mg tab"
+  },
+  {
+    "id": 37,
+    "name": "Phenoptic 0.5% eye drops"
+  },
+  {
+    "id": 38,
+    "name": "Lemagel sup"
+  },
+  {
+    "id": 39,
+    "name": "Histamol D sup"
+  },
+  {
+    "id": 40,
+    "name": "Estranor tab"
+  },
+  {
+    "id": 41,
+    "name": "Orpase 200mg tab"
+  },
+  {
+    "id": 42,
+    "name": "Byvas 5mg tab"
+  },
+  {
+    "id": 43,
+    "name": "Imodium cap"
+  },
+  {
+    "id": 44,
+    "name": "Noroxin 400mg tab"
+  },
+  {
+    "id": 45,
+    "name": "Adalin sup"
+  },
+  {
+    "id": 46,
+    "name": "Safi hamdard sup"
+  },
+  {
+    "id": 47,
+    "name": "Montiget 10mg tab"
+  },
+  {
+    "id": 48,
+    "name": "Folic acid zafa tab"
+  },
+  {
+    "id": 49,
+    "name": "Nims 100mg tab"
+  },
+  {
+    "id": 50,
+    "name": "Ponstan fort tab"
+  },
+  {
+    "id": 51,
+    "name": "1cc BD"
+  },
+  {
+    "id": 52,
+    "name": "Brolin sup"
+  },
+  {
+    "id": 53,
+    "name": "Levoprid 25mg tab"
+  },
+  {
+    "id": 54,
+    "name": "Khatooni sup"
+  },
+  {
+    "id": 55,
+    "name": "Fml eye drops"
+  },
+  {
+    "id": 56,
+    "name": "Betagenic ointment"
+  },
+  {
+    "id": 57,
+    "name": "Exocin eye drops"
+  },
+  {
+    "id": 58,
+    "name": "Prolexa 10mg tab"
+  },
+  {
+    "id": 59,
+    "name": "Lilac sup"
+  },
+  {
+    "id": 60,
+    "name": "Drop D drops"
+  },
+  {
+    "id": 61,
+    "name": "Co valtec 160/25mg tab"
+  },
+  {
+    "id": 62,
+    "name": "Genticyn 80mg inj"
+  },
+  {
+    "id": 63,
+    "name": "Maxolon inj"
+  },
+  {
+    "id": 64,
+    "name": "Plazo 250mg tab"
+  },
+  {
+    "id": 65,
+    "name": "Valam 5/80mg tab"
+  },
+  {
+    "id": 66,
+    "name": "Relispa inj"
+  },
+  {
+    "id": 67,
+    "name": "Neodipar 850mg tab"
+  },
+  {
+    "id": 68,
+    "name": "Urodonol shactes"
+  },
+  {
+    "id": 69,
+    "name": "Intig D tab"
+  },
+  {
+    "id": 70,
+    "name": "Capoten tab"
+  },
+  {
+    "id": 71,
+    "name": "Novoteph 20mg cap"
+  },
+  {
+    "id": 72,
+    "name": "Klue 250mg tab"
+  },
+  {
+    "id": 73,
+    "name": "Duracef 500mg cap"
+  },
+  {
+    "id": 74,
+    "name": "Flueze shactes"
+  },
+  {
+    "id": 75,
+    "name": "Dice G tab"
+  },
+  {
+    "id": 76,
+    "name": "2sum 2g inj"
+  },
+  {
+    "id": 77,
+    "name": "Duricef 250mg sup"
+  },
+  {
+    "id": 78,
+    "name": "Gluconarm 4mg tab"
+  },
+  {
+    "id": 79,
+    "name": "Aldactone 100mg tab"
+  },
+  {
+    "id": 80,
+    "name": "Antacid indigestion sup"
+  },
+  {
+    "id": 81,
+    "name": "Nise 100mg tab"
+  },
+  {
+    "id": 82,
+    "name": "Movax 4mg tab"
+  },
+  {
+    "id": 83,
+    "name": "X plended 10mg tab"
+  },
+  {
+    "id": 84,
+    "name": "Pexnew 5mg tab"
+  },
+  {
+    "id": 85,
+    "name": "Cefspan 400mg cap"
+  },
+  {
+    "id": 86,
+    "name": "Qalsium D tab"
+  },
+  {
+    "id": 87,
+    "name": "Betnovate N cream"
+  },
+  {
+    "id": 88,
+    "name": "Dyclo p tab"
+  },
+  {
+    "id": 89,
+    "name": "Vildo met 50/1000mg tab"
+  },
+  {
+    "id": 90,
+    "name": "Panadol drops"
+  },
+  {
+    "id": 91,
+    "name": "Contatubix cream"
+  },
+  {
+    "id": 92,
+    "name": "Tenormin 100mg tab"
+  },
+  {
+    "id": 93,
+    "name": "Haemacel drip"
+  },
+  {
+    "id": 94,
+    "name": "Lasix 20mg tab"
+  },
+  {
+    "id": 95,
+    "name": "Rast 5mg tab"
+  },
+  {
+    "id": 96,
+    "name": "Caldree 600mg tab"
+  },
+  {
+    "id": 97,
+    "name": "Flogocid cream"
+  },
+  {
+    "id": 98,
+    "name": "Spasmodine drops"
+  },
+  {
+    "id": 99,
+    "name": "Fusadine cream"
+  },
+  {
+    "id": 100,
+    "name": "Clozole cream"
+  },
+  {
+    "id": 101,
+    "name": "Sofvasic V 5/160mg tab"
+  },
+  {
+    "id": 102,
+    "name": "Pacdol plus tab"
+  },
+  {
+    "id": 103,
+    "name": "Panadol fort sup"
+  },
+  {
+    "id": 104,
+    "name": "Gluconarm 3mg tab"
+  },
+  {
+    "id": 105,
+    "name": "Rovista 20mg tab"
+  },
+  {
+    "id": 106,
+    "name": "Mepresor 200mg tab"
+  },
+  {
+    "id": 107,
+    "name": "Oroz M/W"
+  },
+  {
+    "id": 108,
+    "name": "Vidaylin drops"
+  },
+  {
+    "id": 109,
+    "name": "Kolac sup"
+  },
+  {
+    "id": 110,
+    "name": "Blephamide eye ointment"
+  },
+  {
+    "id": 111,
+    "name": "Pedrol drops"
+  },
+  {
+    "id": 112,
+    "name": "Bronkal children sup"
+  },
+  {
+    "id": 113,
+    "name": "Canesten 1 vaginal cream"
+  },
+  {
+    "id": 114,
+    "name": "Valium 10mg inj"
+  },
+  {
+    "id": 115,
+    "name": "Cefprox 100mg sup"
+  },
+  {
+    "id": 116,
+    "name": "Arinac fort tab"
+  },
+  {
+    "id": 117,
+    "name": "Titan 500mg iv inj"
+  },
+  {
+    "id": 118,
+    "name": "Treviamet 50/1000mg tab"
+  },
+  {
+    "id": 119,
+    "name": "Mosegor tab"
+  },
+  {
+    "id": 120,
+    "name": "Myonal tab"
+  },
+  {
+    "id": 121,
+    "name": "Blokium DIU 50mg tab"
+  },
+  {
+    "id": 122,
+    "name": "Glucovance 500/5mg tab"
+  },
+  {
+    "id": 123,
+    "name": "Nebra eye ointment"
+  },
+  {
+    "id": 124,
+    "name": "Famila 28 inj"
+  },
+  {
+    "id": 125,
+    "name": "Core 24 tab"
+  },
+  {
+    "id": 126,
+    "name": "Ofly V eye drops"
+  },
+  {
+    "id": 127,
+    "name": "Ceclor 250ma sup"
+  },
+  {
+    "id": 128,
+    "name": "Lorid sup"
+  },
+  {
+    "id": 129,
+    "name": "Zopent 20mg tab"
+  },
+  {
+    "id": 130,
+    "name": "Montit 10mg tab"
+  },
+  {
+    "id": 131,
+    "name": "Baclin (baclofen) 10mg tab"
+  },
+  {
+    "id": 132,
+    "name": "Espra 20mg cap"
+  },
+  {
+    "id": 133,
+    "name": "No spa fort tab"
+  },
+  {
+    "id": 134,
+    "name": "Corik H tab"
+  },
+  {
+    "id": 135,
+    "name": "Oxidil 500mg im inj"
+  },
+  {
+    "id": 136,
+    "name": "Actdil tab"
+  },
+  {
+    "id": 137,
+    "name": "Letirx 5mg tab (levc) otc"
+  },
+  {
+    "id": 138,
+    "name": "Probase 2.5mg tab"
+  },
+  {
+    "id": 139,
+    "name": "Pelton V sup"
+  },
+  {
+    "id": 140,
+    "name": "Laxoberon tab"
+  },
+  {
+    "id": 141,
+    "name": "Dicloran sr 100mg tab"
+  },
+  {
+    "id": 142,
+    "name": "Hivate 120 nasal spary"
+  },
+  {
+    "id": 143,
+    "name": "Glyvisol sup"
+  },
+  {
+    "id": 144,
+    "name": "Cobolmin inj"
+  },
+  {
+    "id": 145,
+    "name": "Klue 125mg sup"
+  },
+  {
+    "id": 146,
+    "name": "Mobil k 75mg tab"
+  },
+  {
+    "id": 147,
+    "name": "NT-tox 100mg sup"
+  },
+  {
+    "id": 148,
+    "name": "Ferosoft FA sup"
+  },
+  {
+    "id": 149,
+    "name": "Fresh eyes drops"
+  },
+  {
+    "id": 150,
+    "name": "Gen-M 80/ 480mg tab"
+  },
+  {
+    "id": 151,
+    "name": "Slik 4/0"
+  },
+  {
+    "id": 152,
+    "name": "Novoteph 40mg cap"
+  },
+  {
+    "id": 153,
+    "name": "Grifin 500mg tab"
+  },
+  {
+    "id": 154,
+    "name": "Nepatek eye drops"
+  },
+  {
+    "id": 155,
+    "name": "Xpert T/P"
+  },
+  {
+    "id": 156,
+    "name": "Faastidin 4mg tab otc"
+  },
+  {
+    "id": 157,
+    "name": "Bislary tab"
+  },
+  {
+    "id": 158,
+    "name": "Calan 40mg tab"
+  },
+  {
+    "id": 159,
+    "name": "Defungo cream"
+  },
+  {
+    "id": 160,
+    "name": "Megafer inj"
+  },
+  {
+    "id": 161,
+    "name": "Atarax 10mg tab"
+  },
+  {
+    "id": 162,
+    "name": "Ceporex drops"
+  },
+  {
+    "id": 163,
+    "name": "Terbisil 250mg tab"
+  },
+  {
+    "id": 164,
+    "name": "Duricef 125mg sup"
+  },
+  {
+    "id": 165,
+    "name": "Ibreat folic tab"
+  },
+  {
+    "id": 166,
+    "name": "Ensure milk"
+  },
+  {
+    "id": 167,
+    "name": "Canesten skin cream"
+  },
+  {
+    "id": 168,
+    "name": "Maxolon sup"
+  },
+  {
+    "id": 169,
+    "name": "Sprit small"
+  },
+  {
+    "id": 170,
+    "name": "Cyrocin inf"
+  },
+  {
+    "id": 171,
+    "name": "Lactogen 1 small"
+  },
+  {
+    "id": 172,
+    "name": "Flu Z150mg Cap"
+  },
+  {
+    "id": 173,
+    "name": "Skin A cream"
+  },
+  {
+    "id": 174,
+    "name": "10cc D/S"
+  },
+  {
+    "id": 175,
+    "name": "Valtec AM 5/80mg tab"
+  },
+  {
+    "id": 176,
+    "name": "Domel sup"
+  },
+  {
+    "id": 177,
+    "name": "Montiget 5mg tab"
+  },
+  {
+    "id": 178,
+    "name": "Frobin 50mg tab"
+  },
+  {
+    "id": 179,
+    "name": "Arinac sup"
+  },
+  {
+    "id": 180,
+    "name": "Z jan sweetner 100 tab"
+  },
+  {
+    "id": 181,
+    "name": "Vadil 6.25mg tab"
+  },
+  {
+    "id": 182,
+    "name": "Xcept 20mg tab"
+  },
+  {
+    "id": 183,
+    "name": "Tincture benzon co"
+  },
+  {
+    "id": 184,
+    "name": "Manacid fort sup"
+  },
+  {
+    "id": 185,
+    "name": "Naprosyn 500mg tab"
+  },
+  {
+    "id": 186,
+    "name": "Cefspan 200mg sup"
+  },
+  {
+    "id": 187,
+    "name": "Covam plus 10/160/25mg tab"
+  },
+  {
+    "id": 188,
+    "name": "Fexet 60mg tab"
+  },
+  {
+    "id": 189,
+    "name": "Dexa inj"
+  },
+  {
+    "id": 190,
+    "name": "Duragaic tab"
+  },
+  {
+    "id": 191,
+    "name": "Fibrocol shactes"
+  },
+  {
+    "id": 192,
+    "name": "Axesom 20mg cap"
+  },
+  {
+    "id": 193,
+    "name": "Colmint plus sup"
+  },
+  {
+    "id": 194,
+    "name": "Clobederm ointment"
+  },
+  {
+    "id": 195,
+    "name": "Vantin 100mg tab"
+  },
+  {
+    "id": 196,
+    "name": "Nexum 40mg cap"
+  },
+  {
+    "id": 197,
+    "name": "Trance eye drops"
+  },
+  {
+    "id": 198,
+    "name": "Ciplet 500mg tab"
+  },
+  {
+    "id": 199,
+    "name": "Inosita plus 50/500mg tab"
+  },
+  {
+    "id": 200,
+    "name": "Hydrogen per oxide"
+  },
+  {
+    "id": 201,
+    "name": "No spa inj"
+  },
+  {
+    "id": 202,
+    "name": "Sofvasic V 10/160mg tab"
+  },
+  {
+    "id": 203,
+    "name": "Lincocin 600mg inj"
+  },
+  {
+    "id": 204,
+    "name": "Aldomet 250mg tab"
+  },
+  {
+    "id": 205,
+    "name": "Diclozaf inj"
+  },
+  {
+    "id": 206,
+    "name": "Ascard 75mg tab"
+  },
+  {
+    "id": 207,
+    "name": "Eno shactes lemon"
+  },
+  {
+    "id": 208,
+    "name": "Flueze tab"
+  },
+  {
+    "id": 209,
+    "name": "Feldin 20mg tab"
+  },
+  {
+    "id": 210,
+    "name": "Caricef 100mg sup"
+  },
+  {
+    "id": 211,
+    "name": "Jardin D 5mg tab"
+  },
+  {
+    "id": 212,
+    "name": "Voxiquin 250mg tab"
+  },
+  {
+    "id": 213,
+    "name": "Vebivol 10mg tab"
+  },
+  {
+    "id": 214,
+    "name": "Maxflow 0.4mg cap"
+  },
+  {
+    "id": 215,
+    "name": "Hyliyxia plus sup"
+  },
+  {
+    "id": 216,
+    "name": "Vibramycin 100mg cap"
+  },
+  {
+    "id": 217,
+    "name": "Spadix tab"
+  },
+  {
+    "id": 218,
+    "name": "Carsel plus 50mg tab"
+  },
+  {
+    "id": 219,
+    "name": "Cefyl P sup"
+  },
+  {
+    "id": 220,
+    "name": "Surficol tab"
+  },
+  {
+    "id": 221,
+    "name": "Gravibinan 2ml inj"
+  },
+  {
+    "id": 222,
+    "name": "Maxef 250mg im inj"
+  },
+  {
+    "id": 223,
+    "name": "Septran tab"
+  },
+  {
+    "id": 224,
+    "name": "Dapakan sup"
+  },
+  {
+    "id": 225,
+    "name": "Vita D inj"
+  },
+  {
+    "id": 226,
+    "name": "Nezkil 10Omg sup"
+  },
+  {
+    "id": 227,
+    "name": "Olanzia 5mg tab"
+  },
+  {
+    "id": 228,
+    "name": "Inosita plus 50/1000mg tab"
+  },
+  {
+    "id": 229,
+    "name": "Vicks baam"
+  },
+  {
+    "id": 230,
+    "name": "Neuxam 0.25mg tab"
+  },
+  {
+    "id": 231,
+    "name": "Surgi tulle"
+  },
+  {
+    "id": 232,
+    "name": "Getformin 2/500mg tab"
+  },
+  {
+    "id": 233,
+    "name": "Tramal cap"
+  },
+  {
+    "id": 234,
+    "name": "Dexa N cream"
+  },
+  {
+    "id": 235,
+    "name": "Glucophage 850mg tab"
+  },
+  {
+    "id": 236,
+    "name": "Morcet 5mg tab"
+  },
+  {
+    "id": 237,
+    "name": "Indokast 10mg tab"
+  },
+  {
+    "id": 238,
+    "name": "Glaxose D (large)"
+  },
+  {
+    "id": 239,
+    "name": "Ridospa inj"
+  },
+  {
+    "id": 240,
+    "name": "Mosegor sup"
+  },
+  {
+    "id": 241,
+    "name": "Natrilix sr 1.5mg tab"
+  },
+  {
+    "id": 242,
+    "name": "Incobal tab"
+  },
+  {
+    "id": 243,
+    "name": "Q bact 2g inj"
+  },
+  {
+    "id": 244,
+    "name": "Transamin 250mg inj"
+  },
+  {
+    "id": 245,
+    "name": "Dijex MP sup"
+  },
+  {
+    "id": 246,
+    "name": "Glycerine suppositorise adults"
+  },
+  {
+    "id": 247,
+    "name": "Motilium V tab"
+  },
+  {
+    "id": 248,
+    "name": "Ofly eye ointment"
+  },
+  {
+    "id": 249,
+    "name": "Rize 20mg cap"
+  },
+  {
+    "id": 250,
+    "name": "Voren inj"
+  },
+  {
+    "id": 251,
+    "name": "Provate cream"
+  },
+  {
+    "id": 252,
+    "name": "Macrobac 500mg tab"
+  },
+  {
+    "id": 253,
+    "name": "Avil tab"
+  },
+  {
+    "id": 254,
+    "name": "Dolor ds tab"
+  },
+  {
+    "id": 255,
+    "name": "Fudic H cream"
+  },
+  {
+    "id": 256,
+    "name": "Treviamet 50/500mg tab"
+  },
+  {
+    "id": 257,
+    "name": "Lodopin 10mg tab"
+  },
+  {
+    "id": 258,
+    "name": "Metocolan inj"
+  },
+  {
+    "id": 259,
+    "name": "Glit 500mg tab"
+  },
+  {
+    "id": 260,
+    "name": "Rotaflo rotacaps"
+  },
+  {
+    "id": 261,
+    "name": "Eto 50mg tab"
+  },
+  {
+    "id": 262,
+    "name": "Omixim ds sup"
+  },
+  {
+    "id": 263,
+    "name": "Voren 50mg cap"
+  },
+  {
+    "id": 264,
+    "name": "Tramadol plus tab"
+  },
+  {
+    "id": 265,
+    "name": "Voveron 100mg tab otc"
+  },
+  {
+    "id": 266,
+    "name": "Risek 40mg insta"
+  },
+  {
+    "id": 267,
+    "name": "Nalbin inj"
+  },
+  {
+    "id": 268,
+    "name": "Jovit tab"
+  },
+  {
+    "id": 269,
+    "name": "Q pulgite sup"
+  },
+  {
+    "id": 270,
+    "name": "Klaricid 250mg tab"
+  },
+  {
+    "id": 271,
+    "name": "Nedo plus 1 milk"
+  },
+  {
+    "id": 272,
+    "name": "Spasler p sup"
+  },
+  {
+    "id": 273,
+    "name": "Gluconarm Img tab"
+  },
+  {
+    "id": 274,
+    "name": "Hydrozole cream"
+  },
+  {
+    "id": 275,
+    "name": "Methachlor eye drops"
+  },
+  {
+    "id": 276,
+    "name": "Tobra eye drops"
+  },
+  {
+    "id": 277,
+    "name": "Betnisol E/D"
+  },
+  {
+    "id": 278,
+    "name": "Deltacortril 5mg tab"
+  },
+  {
+    "id": 279,
+    "name": "Febhil 80mg tab"
+  },
+  {
+    "id": 280,
+    "name": "Oxidil 1g inj"
+  },
+  {
+    "id": 281,
+    "name": "Colorest drops"
+  },
+  {
+    "id": 282,
+    "name": "N/s 500ml"
+  },
+  {
+    "id": 283,
+    "name": "Caricef ds sup"
+  },
+  {
+    "id": 284,
+    "name": "Blokium 50mg tab"
+  },
+  {
+    "id": 285,
+    "name": "Oroz T/P"
+  },
+  {
+    "id": 286,
+    "name": "Arose evening primrose softgel"
+  },
+  {
+    "id": 287,
+    "name": "Probeta eye drops"
+  },
+  {
+    "id": 288,
+    "name": "Canesten 1 vaginal tab"
+  },
+  {
+    "id": 289,
+    "name": "Genticyn 20mg inj"
+  },
+  {
+    "id": 290,
+    "name": "Librex tab"
+  },
+  {
+    "id": 291,
+    "name": "Colmint plus sup"
+  },
+  {
+    "id": 292,
+    "name": "Cestonil plus sup"
+  },
+  {
+    "id": 293,
+    "name": "Nafcin 500mg tab"
+  },
+  {
+    "id": 294,
+    "name": "2sum 500mg inj"
+  },
+  {
+    "id": 295,
+    "name": "Fml forte eye drops"
+  },
+  {
+    "id": 296,
+    "name": "Minicol sup"
+  },
+  {
+    "id": 297,
+    "name": "Myokast 10mg tab otc"
+  },
+  {
+    "id": 298,
+    "name": "Dermovate NN ointment"
+  },
+  {
+    "id": 299,
+    "name": "Spasfon inj"
+  },
+  {
+    "id": 300,
+    "name": "Abacus 100mg sup"
+  },
+  {
+    "id": 301,
+    "name": "Onset 8mg inj"
+  },
+  {
+    "id": 302,
+    "name": "K cort inj"
+  },
+  {
+    "id": 303,
+    "name": "Britanyl tab"
+  },
+  {
+    "id": 304,
+    "name": "Basocodyal tab"
+  },
+  {
+    "id": 305,
+    "name": "Debridat sup"
+  },
+  {
+    "id": 306,
+    "name": "Reltus cf sup"
+  },
+  {
+    "id": 307,
+    "name": "Ampicillin 500mg inj"
+  },
+  {
+    "id": 308,
+    "name": "Encid 40mg cap"
+  },
+  {
+    "id": 309,
+    "name": "Velosef 500mg inj"
+  },
+  {
+    "id": 310,
+    "name": "Salazodine EC tab"
+  },
+  {
+    "id": 311,
+    "name": "Avsar 5/160mg tab"
+  },
+  {
+    "id": 312,
+    "name": "Glucophage XR 500mg tab"
+  },
+  {
+    "id": 313,
+    "name": "Ceforal-3 400mg cap"
+  },
+  {
+    "id": 314,
+    "name": "Atenorm 50mg tab"
+  },
+  {
+    "id": 315,
+    "name": "Movcol shactes"
+  },
+  {
+    "id": 316,
+    "name": "Famtaza 20mg tab"
+  },
+  {
+    "id": 317,
+    "name": "Femicon eye drpos"
+  },
+  {
+    "id": 318,
+    "name": "Titan 1g inj"
+  },
+  {
+    "id": 319,
+    "name": "Neopram 10mg tab"
+  },
+  {
+    "id": 320,
+    "name": "Fevonor inj"
+  },
+  {
+    "id": 321,
+    "name": "Gen-M 40/240mg tab"
+  },
+  {
+    "id": 322,
+    "name": "Xaltide Hfa inhler"
+  },
+  {
+    "id": 323,
+    "name": "Vidaylin sup"
+  },
+  {
+    "id": 324,
+    "name": "Ofly eye drops"
+  },
+  {
+    "id": 325,
+    "name": "Rotec 75mg tab"
+  },
+  {
+    "id": 326,
+    "name": "Clotrim cream"
+  },
+  {
+    "id": 327,
+    "name": "Cefim 400mg cap"
+  },
+  {
+    "id": 328,
+    "name": "Unifyline 400mg cap"
+  },
+  {
+    "id": 329,
+    "name": "Ezomol 40mg cap"
+  },
+  {
+    "id": 330,
+    "name": "Kemadrin tab"
+  },
+  {
+    "id": 331,
+    "name": "Admira 250mg tab"
+  },
+  {
+    "id": 332,
+    "name": "Bevixin tab otc"
+  },
+  {
+    "id": 333,
+    "name": "Ospamox 500mg tab"
+  },
+  {
+    "id": 334,
+    "name": "Scabfree cream"
+  },
+  {
+    "id": 335,
+    "name": "Laginta adv sup"
+  },
+  {
+    "id": 336,
+    "name": "Kalvita shactes calcium"
+  },
+  {
+    "id": 337,
+    "name": "Knee support"
+  },
+  {
+    "id": 338,
+    "name": "Vagitrim vaginal cream"
+  },
+  {
+    "id": 339,
+    "name": "Genticyn 40mg inj"
+  },
+  {
+    "id": 340,
+    "name": "Infacid cream"
+  },
+  {
+    "id": 341,
+    "name": "Kestine 20mg tab"
+  },
+  {
+    "id": 342,
+    "name": "Dermosporin lotion"
+  },
+  {
+    "id": 343,
+    "name": "Genticyn B cram"
+  },
+  {
+    "id": 344,
+    "name": "Amoxil 500mg cap"
+  },
+  {
+    "id": 345,
+    "name": "Klaricid 500mg tab"
+  },
+  {
+    "id": 346,
+    "name": "Entamizole tab"
+  },
+  {
+    "id": 347,
+    "name": "Dologin ds sup"
+  },
+  {
+    "id": 348,
+    "name": "Cefprox 200mg tab"
+  },
+  {
+    "id": 349,
+    "name": "Corbis 2.5mg tab"
+  },
+  {
+    "id": 350,
+    "name": "Cifa 125mg sup"
+  },
+  {
+    "id": 351,
+    "name": "Tenormin 25mg tab"
+  },
+  {
+    "id": 352,
+    "name": "Gynex falcon cap"
+  },
+  {
+    "id": 353,
+    "name": "Pasmolex drops"
+  },
+  {
+    "id": 354,
+    "name": "Greenfolic softgel"
+  },
+  {
+    "id": 355,
+    "name": "Tonoflex tab"
+  },
+  {
+    "id": 356,
+    "name": "Amclav drops"
+  },
+  {
+    "id": 357,
+    "name": "Klue 250mg sup"
+  },
+  {
+    "id": 358,
+    "name": "Nyloz 40mg cap"
+  },
+  {
+    "id": 359,
+    "name": "Gripe water (woodward)"
+  },
+  {
+    "id": 360,
+    "name": "Mexamine cap"
+  },
+  {
+    "id": 361,
+    "name": "Cyrocin 125mg sup"
+  },
+  {
+    "id": 362,
+    "name": "Diamicron MR 60mg tab"
+  },
+  {
+    "id": 363,
+    "name": "Ofis 125mg sup"
+  },
+  {
+    "id": 364,
+    "name": "Lotense 50ma tab"
+  },
+  {
+    "id": 365,
+    "name": "N/s1000mI"
+  },
+  {
+    "id": 366,
+    "name": "Amoxil 250mg sup"
+  },
+  {
+    "id": 367,
+    "name": "Esopase 20mg cap"
+  },
+  {
+    "id": 368,
+    "name": "Sert 50mg tab"
+  },
+  {
+    "id": 369,
+    "name": "Indral 40mg tab"
+  },
+  {
+    "id": 370,
+    "name": "Revitale B tab"
+  },
+  {
+    "id": 371,
+    "name": "Ginko bioloba sup nutrobiotic"
+  },
+  {
+    "id": 372,
+    "name": "Indrop D inj"
+  },
+  {
+    "id": 373,
+    "name": "Alp 0.5mg tab"
+  },
+  {
+    "id": 374,
+    "name": "Regulat D 500ml"
+  },
+  {
+    "id": 375,
+    "name": "Asilix 500mg tab"
+  },
+  {
+    "id": 376,
+    "name": "Indokast 4mg shactes"
+  },
+  {
+    "id": 377,
+    "name": "Toot siah (falcon) sup"
+  },
+  {
+    "id": 378,
+    "name": "Qsartan plus 50/12.5mg tab"
+  },
+  {
+    "id": 379,
+    "name": "Trusilk 3/0"
+  },
+  {
+    "id": 380,
+    "name": "Rast 20mg tab"
+  },
+  {
+    "id": 381,
+    "name": "Seizunil tab"
+  },
+  {
+    "id": 382,
+    "name": "Beautic cream"
+  },
+  {
+    "id": 383,
+    "name": "Benzibiotic 0.6 million inj"
+  },
+  {
+    "id": 384,
+    "name": "Meteor 1g tab"
+  },
+  {
+    "id": 385,
+    "name": "Mancid sup"
+  },
+  {
+    "id": 386,
+    "name": "Neodipar 1g tab"
+  },
+  {
+    "id": 387,
+    "name": "Nitto surgical tape"
+  },
+  {
+    "id": 388,
+    "name": "Nezkil 600mg tab"
+  },
+  {
+    "id": 389,
+    "name": "Anapaz drops"
+  },
+  {
+    "id": 390,
+    "name": "Ventolin exp sup"
+  },
+  {
+    "id": 391,
+    "name": "Cova H 80/12.5mg tab"
+  },
+  {
+    "id": 392,
+    "name": "Happy life condom"
+  },
+  {
+    "id": 393,
+    "name": "Ciplet 250mg sup"
+  },
+  {
+    "id": 394,
+    "name": "Bludol sup"
+  },
+  {
+    "id": 395,
+    "name": "Oxidil 250mg im inj"
+  },
+  {
+    "id": 396,
+    "name": "Arbi D 150/12.5mg tab"
+  },
+  {
+    "id": 397,
+    "name": "Dologin sup"
+  },
+  {
+    "id": 398,
+    "name": "Spasler Neo tab"
+  },
+  {
+    "id": 399,
+    "name": "Ichtahammol glycerin"
+  },
+  {
+    "id": 400,
+    "name": "Probase 10mg tab"
+  },
+  {
+    "id": 401,
+    "name": "Gesto tab"
+  },
+  {
+    "id": 402,
+    "name": "Espra 40mg cap"
+  },
+  {
+    "id": 403,
+    "name": "Scabix lotion"
+  },
+  {
+    "id": 404,
+    "name": "Mepresor 100mg tab"
+  },
+  {
+    "id": 405,
+    "name": "Rosuvax 10mg tab"
+  },
+  {
+    "id": 406,
+    "name": "Avsar plus 10/160/25mg tab"
+  },
+  {
+    "id": 407,
+    "name": "Clomfranil 25mg tab"
+  },
+  {
+    "id": 408,
+    "name": "Regulat D 1000mlI"
+  },
+  {
+    "id": 409,
+    "name": "Siton plus cream"
+  },
+  {
+    "id": 410,
+    "name": "Getryl 4mg tab"
+  },
+  {
+    "id": 411,
+    "name": "Claritek 500mg tab"
+  },
+  {
+    "id": 412,
+    "name": "Omega 3 polyfine"
+  },
+  {
+    "id": 413,
+    "name": "Cara 20mg tab"
+  },
+  {
+    "id": 414,
+    "name": "Labetalol 100mg tab"
+  },
+  {
+    "id": 415,
+    "name": "Zafa tab"
+  },
+  {
+    "id": 416,
+    "name": "Deslorat 5mg tab (Dis) ote"
+  },
+  {
+    "id": 417,
+    "name": "Hylixia drops"
+  },
+  {
+    "id": 418,
+    "name": "Curine eye drops"
+  },
+  {
+    "id": 419,
+    "name": "Airtal 200mg tab"
+  },
+  {
+    "id": 420,
+    "name": "Tenoret 100mg tab"
+  },
+  {
+    "id": 421,
+    "name": "Macrobac 250mg cap"
+  },
+  {
+    "id": 422,
+    "name": "Tramal 100mg inj"
+  },
+  {
+    "id": 423,
+    "name": "Cyrocin500mg tab"
+  },
+  {
+    "id": 424,
+    "name": "Tears plus eye drops"
+  },
+  {
+    "id": 425,
+    "name": "Softin OD tab"
+  },
+  {
+    "id": 426,
+    "name": "Canesten extra cream"
+  },
+  {
+    "id": 427,
+    "name": "Calcifal falcon tab"
+  },
+  {
+    "id": 428,
+    "name": "Cytopan 75mg tab"
+  },
+  {
+    "id": 429,
+    "name": "Monitor 5mg tab"
+  },
+  {
+    "id": 430,
+    "name": "Ascard plus tab"
+  },
+  {
+    "id": 431,
+    "name": "Ciplet 125mg sup"
+  },
+  {
+    "id": 432,
+    "name": "Clozole lotion"
+  },
+  {
+    "id": 433,
+    "name": "Ulsanic sup"
+  },
+  {
+    "id": 434,
+    "name": "Mercip 250mg tab"
+  },
+  {
+    "id": 435,
+    "name": "Feldin 20mg cap"
+  },
+  {
+    "id": 436,
+    "name": "Ceporex 125mg sup"
+  },
+  {
+    "id": 437,
+    "name": "Acebex tab"
+  },
+  {
+    "id": 438,
+    "name": "Zolid 15mg tab"
+  },
+  {
+    "id": 439,
+    "name": "Costa pro sup"
+  },
+  {
+    "id": 440,
+    "name": "Amoxi clav 375mg tab"
+  },
+  {
+    "id": 441,
+    "name": "Cresar H 80/12.5mg tab"
+  },
+  {
+    "id": 442,
+    "name": "Estar 10mg tab"
+  },
+  {
+    "id": 443,
+    "name": "Gravinate inj"
+  },
+  {
+    "id": 444,
+    "name": "Glit 250mg tab"
+  },
+  {
+    "id": 445,
+    "name": "Calpol 6 plus sup"
+  },
+  {
+    "id": 446,
+    "name": "Werdex 60mg cap"
+  },
+  {
+    "id": 447,
+    "name": "Slik 3/0"
+  },
+  {
+    "id": 448,
+    "name": "Azitma 500mg tab"
+  },
+  {
+    "id": 449,
+    "name": "Xavor 50mg tab"
+  },
+  {
+    "id": 450,
+    "name": "Licocid tab"
+  },
+  {
+    "id": 451,
+    "name": "Spar cin 100mg tab"
+  },
+  {
+    "id": 452,
+    "name": "Flexin 500mg tab"
+  },
+  {
+    "id": 453,
+    "name": "Adoxa 100mg tab"
+  },
+  {
+    "id": 454,
+    "name": "Bludol ds sup"
+  },
+  {
+    "id": 455,
+    "name": "Uriflox 400mg tab"
+  },
+  {
+    "id": 456,
+    "name": "Pelton V tab"
+  },
+  {
+    "id": 457,
+    "name": "Prolexa 5mg tab"
+  },
+  {
+    "id": 458,
+    "name": "Caflam 50mg tab"
+  },
+  {
+    "id": 459,
+    "name": "Cuf rest Falcon sup"
+  },
+  {
+    "id": 460,
+    "name": "Fortazim 250mg inj"
+  },
+  {
+    "id": 461,
+    "name": "Klaricid 125mg sup"
+  },
+  {
+    "id": 462,
+    "name": "Augmentin 375mg tab"
+  },
+  {
+    "id": 463,
+    "name": "Quench cream"
+  },
+  {
+    "id": 464,
+    "name": "Amoxil 250mg cap"
+  },
+  {
+    "id": 465,
+    "name": "Carsel 100mg tab"
+  },
+  {
+    "id": 466,
+    "name": "Asthotifen sup"
+  },
+  {
+    "id": 467,
+    "name": "Danzen tab"
+  },
+  {
+    "id": 468,
+    "name": "Venticort 400/12mcg Rotacaps"
+  },
+  {
+    "id": 469,
+    "name": "Nicotrim tab"
+  },
+  {
+    "id": 470,
+    "name": "Cynodox C Sugar free sup"
+  },
+  {
+    "id": 471,
+    "name": "Costa 2% sup"
+  },
+  {
+    "id": 472,
+    "name": "Podina sup BHL"
+  },
+  {
+    "id": 473,
+    "name": "Eziday 50mg tab"
+  },
+  {
+    "id": 474,
+    "name": "Kenadex N cream"
+  },
+  {
+    "id": 475,
+    "name": "Ospamox 250mg tab"
+  },
+  {
+    "id": 476,
+    "name": "Clomid 50mg tab"
+  },
+  {
+    "id": 477,
+    "name": "Mytil 500mg tab"
+  },
+  {
+    "id": 478,
+    "name": "Rithmo 250mg sup"
+  },
+  {
+    "id": 479,
+    "name": "Optra Hfa inhler"
+  },
+  {
+    "id": 480,
+    "name": "Slik 2/0"
+  },
+  {
+    "id": 481,
+    "name": "Neucef 125mg sup"
+  },
+  {
+    "id": 482,
+    "name": "Glycrin large"
+  },
+  {
+    "id": 483,
+    "name": "Piriton tab"
+  },
+  {
+    "id": 484,
+    "name": "Lipiget 10mg tab"
+  },
+  {
+    "id": 485,
+    "name": "Breeky tab"
+  },
+  {
+    "id": 486,
+    "name": "Dolor sup"
+  },
+  {
+    "id": 487,
+    "name": "Dicloran gel"
+  },
+  {
+    "id": 488,
+    "name": "Ampiclox 250mg cap"
+  },
+  {
+    "id": 489,
+    "name": "Freehale 10mg tab"
+  },
+  {
+    "id": 490,
+    "name": "Cp zaf 500mg tab"
+  },
+  {
+    "id": 491,
+    "name": "Nibovo 5mg tab"
+  },
+  {
+    "id": 492,
+    "name": "Arnil 50mg tab otc"
+  },
+  {
+    "id": 493,
+    "name": "Multibionta inj"
+  },
+  {
+    "id": 494,
+    "name": "Kestine 20mg tab"
+  },
+  {
+    "id": 495,
+    "name": "Cofrab sup"
+  },
+  {
+    "id": 496,
+    "name": "Rithmo 250mg tab"
+  },
+  {
+    "id": 497,
+    "name": "Acabel 8mg inj"
+  },
+  {
+    "id": 498,
+    "name": "Wintogeno baam"
+  },
+  {
+    "id": 499,
+    "name": "Erythrocin 250mg tab"
+  },
+  {
+    "id": 500,
+    "name": "Acylex cream"
+  },
+  {
+    "id": 501,
+    "name": "Licure tab"
+  },
+  {
+    "id": 502,
+    "name": "Betanorm 2.5mg tab"
+  },
+  {
+    "id": 503,
+    "name": "Oxidil 2g inj"
+  },
+  {
+    "id": 504,
+    "name": "Evopride plus 1/500mg tab"
+  },
+  {
+    "id": 505,
+    "name": "Navidat 250mg tab"
+  },
+  {
+    "id": 506,
+    "name": "Enervit drops"
+  },
+  {
+    "id": 507,
+    "name": "Lorid 10mg tab"
+  },
+  {
+    "id": 508,
+    "name": "Trihemic 600mg tab"
+  },
+  {
+    "id": 509,
+    "name": "Bislary inj"
+  },
+  {
+    "id": 510,
+    "name": "Betnovate N ointment"
+  },
+  {
+    "id": 511,
+    "name": "Otosporin ear drops"
+  },
+  {
+    "id": 512,
+    "name": "Voltral emagel 1%"
+  },
+  {
+    "id": 513,
+    "name": "Transamin 250mg cap"
+  },
+  {
+    "id": 514,
+    "name": "Olinc 300mg inj"
+  },
+  {
+    "id": 515,
+    "name": "Corik 50mg tab"
+  },
+  {
+    "id": 516,
+    "name": "Plam support"
+  },
+  {
+    "id": 517,
+    "name": "Inosita plus 50/850mg tab"
+  },
+  {
+    "id": 518,
+    "name": "Xavor DIU 50/12.5mg tab"
+  },
+  {
+    "id": 519,
+    "name": "Primolut N 5mg tab"
+  },
+  {
+    "id": 520,
+    "name": "Cefiget ds sup"
+  },
+  {
+    "id": 521,
+    "name": "Xylocain 2% inj"
+  },
+  {
+    "id": 522,
+    "name": "M folic tab"
+  },
+  {
+    "id": 523,
+    "name": "Risek 40mg cap"
+  },
+  {
+    "id": 524,
+    "name": "Azipos 250mg tab"
+  },
+  {
+    "id": 525,
+    "name": "Eskem 40mg cap"
+  },
+  {
+    "id": 526,
+    "name": "Zeenaryl Img tab"
+  },
+  {
+    "id": 527,
+    "name": "Encid 20mg cap"
+  },
+  {
+    "id": 528,
+    "name": "Fudic cream"
+  },
+  {
+    "id": 529,
+    "name": "Malin lotion"
+  },
+  {
+    "id": 530,
+    "name": "Zeenaryl 4mg tab"
+  },
+  {
+    "id": 531,
+    "name": "Corinef ds sup"
+  },
+  {
+    "id": 532,
+    "name": "N/s 100ml"
+  },
+  {
+    "id": 533,
+    "name": "Becefol tab"
+  },
+  {
+    "id": 534,
+    "name": "Qusel 25mg tab"
+  },
+  {
+    "id": 535,
+    "name": "Mecobalamin inj otc"
+  },
+  {
+    "id": 536,
+    "name": "Kenacort A inj"
+  },
+  {
+    "id": 537,
+    "name": "Stenzar sup"
+  },
+  {
+    "id": 538,
+    "name": "T-day sup"
+  },
+  {
+    "id": 539,
+    "name": "Getryl 3mg tab"
+  },
+  {
+    "id": 540,
+    "name": "Molox 400mg tab"
+  },
+  {
+    "id": 541,
+    "name": "Citralka sup"
+  },
+  {
+    "id": 542,
+    "name": "Cardace 5mg tab"
+  },
+  {
+    "id": 543,
+    "name": "Contour 40mg inj"
+  },
+  {
+    "id": 544,
+    "name": "Phlodic 100mg cap"
+  },
+  {
+    "id": 545,
+    "name": "Lipiget 40mg tab"
+  },
+  {
+    "id": 546,
+    "name": "Depex 20mg cap"
+  },
+  {
+    "id": 547,
+    "name": "Neurobion tab"
+  },
+  {
+    "id": 548,
+    "name": "Skysim fort sup"
+  },
+  {
+    "id": 549,
+    "name": "Mupir (mupirocin 2%) cream"
+  },
+  {
+    "id": 550,
+    "name": "Magnett 400mg cap"
+  },
+  {
+    "id": 551,
+    "name": "Valium 5mg tab"
+  },
+  {
+    "id": 552,
+    "name": "Celbex 200mg cap"
+  },
+  {
+    "id": 553,
+    "name": "Calamox ds sup"
+  },
+  {
+    "id": 554,
+    "name": "Hivate 60 nasal spary"
+  },
+  {
+    "id": 555,
+    "name": "Calan sr 240mg tab"
+  },
+  {
+    "id": 556,
+    "name": "Azit 250mg tab"
+  },
+  {
+    "id": 557,
+    "name": "Dermoquin 4% cream"
+  },
+  {
+    "id": 558,
+    "name": "Clobevate cream"
+  },
+  {
+    "id": 559,
+    "name": "Urigo 80mg tab"
+  },
+  {
+    "id": 560,
+    "name": "Estar 5mg tab"
+  },
+  {
+    "id": 561,
+    "name": "Gluconarm 2mg tab"
+  },
+  {
+    "id": 562,
+    "name": "Freehale 4mg shactes"
+  },
+  {
+    "id": 563,
+    "name": "Kenalog oral base"
+  },
+  {
+    "id": 564,
+    "name": "Face on cap"
+  },
+  {
+    "id": 565,
+    "name": "Cran Max aqua shactes"
+  },
+  {
+    "id": 566,
+    "name": "Mosegor V sup"
+  },
+  {
+    "id": 567,
+    "name": "Jardin D sup"
+  },
+  {
+    "id": 568,
+    "name": "Zeftrox 250mg inj"
+  },
+  {
+    "id": 569,
+    "name": "Valtec 80mg tab"
+  },
+  {
+    "id": 570,
+    "name": "Polytek eye drops"
+  },
+  {
+    "id": 571,
+    "name": "Biolysine sup"
+  },
+  {
+    "id": 572,
+    "name": "Brufen cream"
+  },
+  {
+    "id": 573,
+    "name": "Avsar 5/80mg tab"
+  },
+  {
+    "id": 574,
+    "name": "Calan 80mg tab"
+  },
+  {
+    "id": 575,
+    "name": "Ossobon D sup"
+  },
+  {
+    "id": 576,
+    "name": "Xika rapid 8mg tab"
+  },
+  {
+    "id": 577,
+    "name": "Covam 5/80mg tab"
+  },
+  {
+    "id": 578,
+    "name": "M low 5mg tab"
+  },
+  {
+    "id": 579,
+    "name": "Cefprox 100mg tab"
+  },
+  {
+    "id": 580,
+    "name": "Hyderquin 4% cream"
+  },
+  {
+    "id": 581,
+    "name": "Cofcol sup"
+  },
+  {
+    "id": 582,
+    "name": "Cosome E sup"
+  },
+  {
+    "id": 583,
+    "name": "Neopram 5mg tab"
+  },
+  {
+    "id": 584,
+    "name": "Unix 100mg tab"
+  },
+  {
+    "id": 585,
+    "name": "Tofranil 25mg tab"
+  },
+  {
+    "id": 586,
+    "name": "Pedrol fort"
+  },
+  {
+    "id": 587,
+    "name": "Doltee woodword drops"
+  },
+  {
+    "id": 588,
+    "name": "Ominidol tab"
+  },
+  {
+    "id": 589,
+    "name": "Essonave 20mg otc cap"
+  },
+  {
+    "id": 590,
+    "name": "Montiget 4mg shactes"
+  },
+  {
+    "id": 591,
+    "name": "Sitamet xr50/500mg tab"
+  },
+  {
+    "id": 592,
+    "name": "Sitaglumet 50/1000mg tab"
+  },
+  {
+    "id": 593,
+    "name": "Vidaylin M sup"
+  },
+  {
+    "id": 594,
+    "name": "Gynocosid tab"
+  },
+  {
+    "id": 595,
+    "name": "Wincare zinc oxide adhesive tape"
+  },
+  {
+    "id": 596,
+    "name": "Esso 40mg cap"
+  },
+  {
+    "id": 597,
+    "name": "Trimetabol sup"
+  },
+  {
+    "id": 598,
+    "name": "Acylex 800mg tab"
+  },
+  {
+    "id": 599,
+    "name": "Tercica sup"
+  },
+  {
+    "id": 600,
+    "name": "Combinol E sup"
+  },
+  {
+    "id": 601,
+    "name": "Starcox 120mg tab"
+  },
+  {
+    "id": 602,
+    "name": "Covam 5/160mg tab"
+  },
+  {
+    "id": 603,
+    "name": "Stat A 10mg tab"
+  },
+  {
+    "id": 604,
+    "name": "Hex 50mg tab"
+  },
+  {
+    "id": 605,
+    "name": "Arceva sup"
+  },
+  {
+    "id": 606,
+    "name": "Vantin 40mg sup"
+  },
+  {
+    "id": 607,
+    "name": "Ceremin 800mg tab"
+  },
+  {
+    "id": 608,
+    "name": "Velosef 250mg cap"
+  },
+  {
+    "id": 609,
+    "name": "Carveda 6.25mg tab"
+  },
+  {
+    "id": 610,
+    "name": "Combinol +H sup"
+  },
+  {
+    "id": 611,
+    "name": "Itraderm(itraconazole) 100mg cap"
+  },
+  {
+    "id": 612,
+    "name": "Basoquin tab"
+  },
+  {
+    "id": 613,
+    "name": "Covam plus 5/160/12.5mg tab"
+  },
+  {
+    "id": 614,
+    "name": "Gonadil F cap"
+  },
+  {
+    "id": 615,
+    "name": "Cefim ds sup"
+  },
+  {
+    "id": 616,
+    "name": "Glavose 7\""
+  },
+  {
+    "id": 617,
+    "name": "Eziday 25mg tab"
+  },
+  {
+    "id": 618,
+    "name": "Fungone 150mg cap"
+  },
+  {
+    "id": 619,
+    "name": "Navidat inf"
+  },
+  {
+    "id": 620,
+    "name": "Lasix 40mg tab"
+  },
+  {
+    "id": 621,
+    "name": "Vitram tab"
+  },
+  {
+    "id": 622,
+    "name": "Acasia 250mg tab"
+  },
+  {
+    "id": 623,
+    "name": "Glaxose D (small)"
+  },
+  {
+    "id": 624,
+    "name": "Xcept 10mg tab"
+  },
+  {
+    "id": 625,
+    "name": "Eback 10mg tab"
+  },
+  {
+    "id": 626,
+    "name": "Stanic 100mg ( ansaid otc)"
+  },
+  {
+    "id": 627,
+    "name": "Norvasc 5ma tab"
+  },
+  {
+    "id": 628,
+    "name": "Pediasure milk"
+  },
+  {
+    "id": 629,
+    "name": "LacNovex sup"
+  },
+  {
+    "id": 630,
+    "name": "Plasil with enzymes tab"
+  },
+  {
+    "id": 631,
+    "name": "Cac plus 1000 tab"
+  },
+  {
+    "id": 632,
+    "name": "Zolint sup"
+  },
+  {
+    "id": 633,
+    "name": "Desora 5mg tab"
+  },
+  {
+    "id": 634,
+    "name": "Wilgesic tab"
+  },
+  {
+    "id": 635,
+    "name": "Dailycal tab"
+  },
+  {
+    "id": 636,
+    "name": "Deximox eye drops"
+  },
+  {
+    "id": 637,
+    "name": "Disprin cv tab"
+  },
+  {
+    "id": 638,
+    "name": "Cefia 100mg sup"
+  },
+  {
+    "id": 639,
+    "name": "Febhil 40mg tab"
+  },
+  {
+    "id": 640,
+    "name": "Maxef 500mg im inj"
+  },
+  {
+    "id": 641,
+    "name": "Panadol extand"
+  },
+  {
+    "id": 642,
+    "name": "Esso 40mg inj"
+  },
+  {
+    "id": 643,
+    "name": "Flagyl sup"
+  },
+  {
+    "id": 644,
+    "name": "Sinemet (carbidopa/levodopa) 25/250mg tab"
+  },
+  {
+    "id": 645,
+    "name": "Amoxil 125mg sup"
+  },
+  {
+    "id": 646,
+    "name": "Zyloric 100mg tab"
+  },
+  {
+    "id": 647,
+    "name": "Comfy sup"
+  },
+  {
+    "id": 648,
+    "name": "Actdil sup"
+  },
+  {
+    "id": 649,
+    "name": "Citanew 20mg tab"
+  },
+  {
+    "id": 650,
+    "name": "Scabix cream"
+  },
+  {
+    "id": 651,
+    "name": "Cac plus 1000 tab"
+  },
+  {
+    "id": 652,
+    "name": "Mobil k 100mg tab"
+  },
+  {
+    "id": 653,
+    "name": "Xpert M/W."
+  },
+  {
+    "id": 654,
+    "name": "Combinol +H joniar"
+  },
+  {
+    "id": 655,
+    "name": "Polygel sup well grow"
+  },
+  {
+    "id": 656,
+    "name": "Moduretic 5/50mg tab"
+  },
+  {
+    "id": 657,
+    "name": "Ofis 500mg cap"
+  },
+  {
+    "id": 658,
+    "name": "Xyloaid FA omint"
+  },
+  {
+    "id": 659,
+    "name": "Melor 15mg tab"
+  },
+  {
+    "id": 660,
+    "name": "Cytopan 50mg tab"
+  },
+  {
+    "id": 661,
+    "name": "Newday 5/80mg tab"
+  },
+  {
+    "id": 662,
+    "name": "Sulpy 25mg tab"
+  },
+  {
+    "id": 663,
+    "name": "Ezium 20mg cap"
+  },
+  {
+    "id": 664,
+    "name": "Gravibinan Im inj"
+  },
+  {
+    "id": 665,
+    "name": "Azitma 200mg sup"
+  },
+  {
+    "id": 666,
+    "name": "Mofest 400mg tab"
+  },
+  {
+    "id": 667,
+    "name": "Prodant M/W"
+  },
+  {
+    "id": 668,
+    "name": "Pain nil tab"
+  },
+  {
+    "id": 669,
+    "name": "Mclevo 500mg tab"
+  },
+  {
+    "id": 670,
+    "name": "Harbistop tab"
+  },
+  {
+    "id": 671,
+    "name": "Lipiget 5mg tab"
+  },
+  {
+    "id": 672,
+    "name": "Xylocain +Andralin inj"
+  },
+  {
+    "id": 673,
+    "name": "Pelton tab"
+  },
+  {
+    "id": 674,
+    "name": "Zametasone lotion"
+  },
+  {
+    "id": 675,
+    "name": "Hyspa 0.18% eye drops"
+  },
+  {
+    "id": 676,
+    "name": "Betaderm NM cream"
+  },
+  {
+    "id": 677,
+    "name": "Ulsanic 500mg tab"
+  },
+  {
+    "id": 678,
+    "name": "Morcet 10mg tab"
+  },
+  {
+    "id": 679,
+    "name": "Eziday 100mg tab"
+  },
+  {
+    "id": 680,
+    "name": "Caricef 200mg tab"
+  },
+  {
+    "id": 681,
+    "name": "Cefia 400mg cap"
+  },
+  {
+    "id": 682,
+    "name": "Meco tab"
+  },
+  {
+    "id": 683,
+    "name": "Inflamitax 100mg tab"
+  },
+  {
+    "id": 684,
+    "name": "Leyn 250mg tab"
+  },
+  {
+    "id": 685,
+    "name": "Ciproquine 500mg tab"
+  },
+  {
+    "id": 686,
+    "name": "Dultix DR 30mg cap"
+  },
+  {
+    "id": 687,
+    "name": "Zatofen sup"
+  },
+  {
+    "id": 688,
+    "name": "Spiromide 40mg tab"
+  },
+  {
+    "id": 689,
+    "name": "Zetro 500mg tab"
+  },
+  {
+    "id": 690,
+    "name": "Spasmodine sup"
+  },
+  {
+    "id": 691,
+    "name": "Stugeron fort cap"
+  },
+  {
+    "id": 692,
+    "name": "Tamiso MR 0.4mg cap"
+  },
+  {
+    "id": 693,
+    "name": "Renitec 10mg tab"
+  },
+  {
+    "id": 694,
+    "name": "Calamox 156mg sup"
+  },
+  {
+    "id": 695,
+    "name": "Hapicit (citalopram) 20mg tab"
+  },
+  {
+    "id": 696,
+    "name": "Zepres plus tab"
+  },
+  {
+    "id": 697,
+    "name": "Augmentin 1g tab"
+  },
+  {
+    "id": 698,
+    "name": "Niazox sup"
+  },
+  {
+    "id": 699,
+    "name": "Conaz lotion shampao"
+  },
+  {
+    "id": 700,
+    "name": "Proviron 25mg tab"
+  },
+  {
+    "id": 701,
+    "name": "Neuxam 0.5mg tab"
+  },
+  {
+    "id": 702,
+    "name": "Liv.52 sup"
+  },
+  {
+    "id": 703,
+    "name": "Valam 10/160mg tab"
+  },
+  {
+    "id": 704,
+    "name": "Rovista 10mg tab"
+  },
+  {
+    "id": 705,
+    "name": "Mapact 100mg tab"
+  },
+  {
+    "id": 706,
+    "name": "Dapakan 250mg tab"
+  },
+  {
+    "id": 707,
+    "name": "Muconyl sup"
+  },
+  {
+    "id": 708,
+    "name": "Relispa 40mg tab"
+  },
+  {
+    "id": 709,
+    "name": "Pytex 20mg tab"
+  },
+  {
+    "id": 710,
+    "name": "Zestril 1Omg tab"
+  },
+  {
+    "id": 711,
+    "name": "Furamid sup"
+  },
+  {
+    "id": 712,
+    "name": "Mycitracin ointment"
+  },
+  {
+    "id": 713,
+    "name": "Efix 200mg sup"
+  },
+  {
+    "id": 714,
+    "name": "Fibo shactes"
+  },
+  {
+    "id": 715,
+    "name": "Clozox H cream"
+  },
+  {
+    "id": 716,
+    "name": "Podina green small sup"
+  },
+  {
+    "id": 717,
+    "name": "Softin F 60mg tab"
+  },
+  {
+    "id": 718,
+    "name": "Conkast 10mg tab"
+  },
+  {
+    "id": 719,
+    "name": "Benzirin M/W"
+  },
+  {
+    "id": 720,
+    "name": "Onset 4mg inj"
+  },
+  {
+    "id": 721,
+    "name": "Eplacherrys compound sup"
+  },
+  {
+    "id": 722,
+    "name": "Advant 8mg tab"
+  },
+  {
+    "id": 723,
+    "name": "Betanorm 5mg tab"
+  },
+  {
+    "id": 724,
+    "name": "Ofylin sup"
+  },
+  {
+    "id": 725,
+    "name": "Spasrid tab"
+  },
+  {
+    "id": 726,
+    "name": "Carlov 6.25mg tab"
+  },
+  {
+    "id": 727,
+    "name": "Ampicilin 250mg inj"
+  },
+  {
+    "id": 728,
+    "name": "Azomax sup"
+  },
+  {
+    "id": 729,
+    "name": "Orpase ds sup"
+  },
+  {
+    "id": 730,
+    "name": "Nappy rash cream"
+  },
+  {
+    "id": 731,
+    "name": "Xobix 7.5mg tab"
+  },
+  {
+    "id": 732,
+    "name": "Navidat 125mg sup"
+  },
+  {
+    "id": 733,
+    "name": "Progefflik 100mg cap"
+  },
+  {
+    "id": 734,
+    "name": "Lotense H tab"
+  },
+  {
+    "id": 735,
+    "name": "Cagut 2/0"
+  },
+  {
+    "id": 736,
+    "name": "Prelox 40mg sup"
+  },
+  {
+    "id": 737,
+    "name": "Loprin 150mg tab"
+  },
+  {
+    "id": 738,
+    "name": "Multibionta M cap"
+  },
+  {
+    "id": 739,
+    "name": "Urigo 40mg tab"
+  },
+  {
+    "id": 740,
+    "name": "Navidat 250mg sup"
+  },
+  {
+    "id": 741,
+    "name": "Omixim 100mg sup"
+  },
+  {
+    "id": 742,
+    "name": "Daktarin oral gel"
+  },
+  {
+    "id": 743,
+    "name": "Navidoxine tab"
+  },
+  {
+    "id": 744,
+    "name": "Lizotek 400mg tab"
+  },
+  {
+    "id": 745,
+    "name": "Ofylin 400mg cap"
+  },
+  {
+    "id": 746,
+    "name": "Xyquil DR tab"
+  },
+  {
+    "id": 747,
+    "name": "Danzen ds tab"
+  },
+  {
+    "id": 748,
+    "name": "Dexxoo 30mg cap"
+  },
+  {
+    "id": 749,
+    "name": "Reteric 75mg cap"
+  },
+  {
+    "id": 750,
+    "name": "Akseer + hazmoom sup"
+  },
+  {
+    "id": 751,
+    "name": "Pulmonol lozenges tab"
+  },
+  {
+    "id": 752,
+    "name": "Norsline p nasal drops"
+  },
+  {
+    "id": 753,
+    "name": "Dapakan 500mg tab"
+  },
+  {
+    "id": 754,
+    "name": "Onato 10mg tab"
+  },
+  {
+    "id": 755,
+    "name": "QplexZ sup"
+  },
+  {
+    "id": 756,
+    "name": "Oslia 20000iu softgel"
+  },
+  {
+    "id": 757,
+    "name": "Vildo met 50/500mg tab"
+  },
+  {
+    "id": 758,
+    "name": "Magnett ds sup"
+  },
+  {
+    "id": 759,
+    "name": "Myfol tab"
+  },
+  {
+    "id": 760,
+    "name": "Glob tab"
+  },
+  {
+    "id": 761,
+    "name": "Serc 8mg tab"
+  },
+  {
+    "id": 762,
+    "name": "Cef od 200mg tab"
+  },
+  {
+    "id": 763,
+    "name": "Sokoon 3mg tab"
+  },
+  {
+    "id": 764,
+    "name": "Softin F 120mg tab"
+  },
+  {
+    "id": 765,
+    "name": "Hyderquin plus cream"
+  },
+  {
+    "id": 766,
+    "name": "Ceporex 500mg cap"
+  },
+  {
+    "id": 767,
+    "name": "Sunvit inj"
+  },
+  {
+    "id": 768,
+    "name": "Levomerc 250mg tab"
+  },
+  {
+    "id": 769,
+    "name": "Silymarin sup nutrabiotics"
+  },
+  {
+    "id": 770,
+    "name": "Reducid sup"
+  },
+  {
+    "id": 771,
+    "name": "Stat A 20mg tab"
+  },
+  {
+    "id": 772,
+    "name": "Ketress tab"
+  },
+  {
+    "id": 773,
+    "name": "Zodip 5mg tab"
+  },
+  {
+    "id": 774,
+    "name": "Calamox 625mg tab"
+  },
+  {
+    "id": 775,
+    "name": "Gabica 100mg cap"
+  },
+  {
+    "id": 776,
+    "name": "Fusil cream small"
+  },
+  {
+    "id": 777,
+    "name": "Frobin 100mg tab"
+  },
+  {
+    "id": 778,
+    "name": "Vidaylin L sup"
+  },
+  {
+    "id": 779,
+    "name": "Brysk tab"
+  },
+  {
+    "id": 780,
+    "name": "Ulcenil 40mg tab"
+  },
+  {
+    "id": 781,
+    "name": "Indral 10mg tab"
+  },
+  {
+    "id": 782,
+    "name": "Provas N fort tab"
+  },
+  {
+    "id": 783,
+    "name": "Normitab 50mg tab"
+  },
+  {
+    "id": 784,
+    "name": "Prednicol eye drops"
+  },
+  {
+    "id": 785,
+    "name": "Flagyl 400mg tab"
+  },
+  {
+    "id": 786,
+    "name": "Cosome sup"
+  },
+  {
+    "id": 787,
+    "name": "Concor 10mg tab"
+  },
+  {
+    "id": 788,
+    "name": "Provas inj"
+  },
+  {
+    "id": 789,
+    "name": "Camozyam sup"
+  },
+  {
+    "id": 790,
+    "name": "Nyloz 20mg cap"
+  },
+  {
+    "id": 791,
+    "name": "Pyodine scrib"
+  },
+  {
+    "id": 792,
+    "name": "Senergy od 10mg tab"
+  },
+  {
+    "id": 793,
+    "name": "Desora sup"
+  },
+  {
+    "id": 794,
+    "name": "Glimet 5/500mg tab"
+  },
+  {
+    "id": 795,
+    "name": "Pyodine solution"
+  },
+  {
+    "id": 796,
+    "name": "Polyfex skin omint"
+  },
+  {
+    "id": 797,
+    "name": "Synflex 550mg tab"
+  },
+  {
+    "id": 798,
+    "name": "Jetepar sup"
+  },
+  {
+    "id": 799,
+    "name": "Tofranil 10mg tab"
+  },
+  {
+    "id": 800,
+    "name": "Solifen 10mg tab"
+  },
+  {
+    "id": 801,
+    "name": "Fansidar sup"
+  },
+  {
+    "id": 802,
+    "name": "Mecobal tab"
+  },
+  {
+    "id": 803,
+    "name": "Mestil tab"
+  },
+  {
+    "id": 804,
+    "name": "Folad sharbat (falcon)"
+  },
+  {
+    "id": 805,
+    "name": "Mepore 4\""
+  },
+  {
+    "id": 806,
+    "name": "Lazma cream"
+  },
+  {
+    "id": 807,
+    "name": "Glucophage 1g tab"
+  },
+  {
+    "id": 808,
+    "name": "Xib sup"
+  },
+  {
+    "id": 809,
+    "name": "Vagilact veginal tab"
+  },
+  {
+    "id": 810,
+    "name": "Epival sup"
+  },
+  {
+    "id": 811,
+    "name": "Theragran ultra tab"
+  },
+  {
+    "id": 812,
+    "name": "Klaricid ds sup"
+  },
+  {
+    "id": 813,
+    "name": "Claritek250mg sup"
+  },
+  {
+    "id": 814,
+    "name": "Transamin 500mg cap"
+  },
+  {
+    "id": 815,
+    "name": "Mercip 500mg tab"
+  },
+  {
+    "id": 816,
+    "name": "Ankle support"
+  },
+  {
+    "id": 817,
+    "name": "Oflobid 200mg tab"
+  },
+  {
+    "id": 818,
+    "name": "Melor 7.5mg tab"
+  },
+  {
+    "id": 819,
+    "name": "Maltofer drops"
+  },
+  {
+    "id": 820,
+    "name": "Tricort inj"
+  },
+  {
+    "id": 821,
+    "name": "Fero phorhen"
+  },
+  {
+    "id": 822,
+    "name": "Digas sup"
+  },
+  {
+    "id": 823,
+    "name": "Bizori sharbat qurshi"
+  },
+  {
+    "id": 824,
+    "name": "Covam plus 10/160/12.5mg tab"
+  },
+  {
+    "id": 825,
+    "name": "Arbi D 300/12.5mg tab"
+  },
+  {
+    "id": 826,
+    "name": "D tres inj"
+  },
+  {
+    "id": 827,
+    "name": "Eno shactes orange"
+  },
+  {
+    "id": 828,
+    "name": "Fudic ointment"
+  },
+  {
+    "id": 829,
+    "name": "Babynol sup"
+  },
+  {
+    "id": 830,
+    "name": "Lactogen 2 large"
+  },
+  {
+    "id": 831,
+    "name": "Gvia M 50/1000mg tab"
+  },
+  {
+    "id": 832,
+    "name": "Sanaid 100mg tab"
+  },
+  {
+    "id": 833,
+    "name": "X plended 5mg tab"
+  },
+  {
+    "id": 834,
+    "name": "Ponstan plan tab"
+  },
+  {
+    "id": 835,
+    "name": "Flotin 20mg cap"
+  },
+  {
+    "id": 836,
+    "name": "Ritor 50mg tab"
+  },
+  {
+    "id": 837,
+    "name": "Doctile Shactes"
+  },
+  {
+    "id": 838,
+    "name": "Acdermin gel"
+  },
+  {
+    "id": 839,
+    "name": "Duvel plus 50/500mg tab"
+  },
+  {
+    "id": 840,
+    "name": "Olanzia 10mg tab"
+  },
+  {
+    "id": 841,
+    "name": "Surbex sup"
+  },
+  {
+    "id": 842,
+    "name": "Clenil 250mcg Evahler"
+  },
+  {
+    "id": 843,
+    "name": "Renitec 5mg tab"
+  },
+  {
+    "id": 844,
+    "name": "Blephamide eye drops"
+  },
+  {
+    "id": 845,
+    "name": "Lal Sharbat sup"
+  },
+  {
+    "id": 846,
+    "name": "Gutti (hamdrad)"
+  },
+  {
+    "id": 847,
+    "name": "Co valtec 160/12.5mg tab"
+  },
+  {
+    "id": 848,
+    "name": "Softin 10mg tab"
+  },
+  {
+    "id": 849,
+    "name": "Amoxil drops"
+  },
+  {
+    "id": 850,
+    "name": "Skab lotion"
+  },
+  {
+    "id": 851,
+    "name": "Sihat mand cap"
+  },
+  {
+    "id": 852,
+    "name": "Helezol 20mg cap"
+  },
+  {
+    "id": 853,
+    "name": "Distalgesic tab"
+  },
+  {
+    "id": 854,
+    "name": "Ciproxin 125mg sup"
+  },
+  {
+    "id": 855,
+    "name": "Ramipace 2.5mg tab"
+  },
+  {
+    "id": 856,
+    "name": "Gaviscon sup"
+  },
+  {
+    "id": 857,
+    "name": "NT-tox 500mg tab"
+  },
+  {
+    "id": 858,
+    "name": "Oem ors"
+  },
+  {
+    "id": 859,
+    "name": "Flux 20mg cap"
+  },
+  {
+    "id": 860,
+    "name": "Theragran -M tab"
+  },
+  {
+    "id": 861,
+    "name": "Duracef drops"
+  },
+  {
+    "id": 862,
+    "name": "Podina white large sup"
+  },
+  {
+    "id": 863,
+    "name": "Triforge 10/160/12.5mg tab"
+  },
+  {
+    "id": 864,
+    "name": "Duragasic fort tab"
+  },
+  {
+    "id": 865,
+    "name": "Cef od ds sup"
+  },
+  {
+    "id": 866,
+    "name": "Avil inj"
+  },
+  {
+    "id": 867,
+    "name": "Cefprox 40mg sup"
+  },
+  {
+    "id": 868,
+    "name": "Dermivate cream"
+  },
+  {
+    "id": 869,
+    "name": "Calpol sup"
+  },
+  {
+    "id": 870,
+    "name": "Hydralin sup"
+  },
+  {
+    "id": 871,
+    "name": "Neucef 500mg cap"
+  },
+  {
+    "id": 872,
+    "name": "Rimona shactes"
+  },
+  {
+    "id": 873,
+    "name": "Cofrab plus sup"
+  },
+  {
+    "id": 874,
+    "name": "Tobradex eye drops"
+  },
+  {
+    "id": 875,
+    "name": "Nside 100mg otc"
+  },
+  {
+    "id": 876,
+    "name": "Taxidol p tab"
+  },
+  {
+    "id": 877,
+    "name": "Fonaz 150mg cap"
+  },
+  {
+    "id": 878,
+    "name": "Cycin 500mg tab"
+  },
+  {
+    "id": 879,
+    "name": "Ogrel 75mg tab"
+  },
+  {
+    "id": 880,
+    "name": "Apoclox 250mg inj"
+  },
+  {
+    "id": 881,
+    "name": "Etrizine L 5mg tab"
+  },
+  {
+    "id": 882,
+    "name": "Ramipace 1.25mg tab"
+  },
+  {
+    "id": 883,
+    "name": "Vagilact veginal cream"
+  },
+  {
+    "id": 884,
+    "name": "Cicatrin powder"
+  },
+  {
+    "id": 885,
+    "name": "Nuberol fort tab"
+  },
+  {
+    "id": 886,
+    "name": "Vermox 500mg tab"
+  },
+  {
+    "id": 887,
+    "name": "Blokium DIU tab"
+  },
+  {
+    "id": 888,
+    "name": "Amgydex eye ointment"
+  },
+  {
+    "id": 889,
+    "name": "Tobra D eye drops"
+  },
+  {
+    "id": 890,
+    "name": "Osmolar Ors"
+  },
+  {
+    "id": 891,
+    "name": "Bislary sup"
+  },
+  {
+    "id": 892,
+    "name": "Dolgina 30mg cap"
+  },
+  {
+    "id": 893,
+    "name": "Citanew 5mg tab"
+  },
+  {
+    "id": 894,
+    "name": "Gyno daktarin v vaginal cream"
+  },
+  {
+    "id": 895,
+    "name": "Lasix inj"
+  },
+  {
+    "id": 896,
+    "name": "Tempramin sup"
+  },
+  {
+    "id": 897,
+    "name": "Co eziday 100mg tab"
+  },
+  {
+    "id": 898,
+    "name": "Gen-M ds sup"
+  },
+  {
+    "id": 899,
+    "name": "Levoxin 250mg tab"
+  },
+  {
+    "id": 900,
+    "name": "Ispaghol 50gram marhaba"
+  },
+  {
+    "id": 901,
+    "name": "Motilium tab"
+  },
+  {
+    "id": 902,
+    "name": "Betnesol N ointment"
+  },
+  {
+    "id": 903,
+    "name": "Cotasmi 80/12.5mg tab"
+  },
+  {
+    "id": 904,
+    "name": "Pulsate 150mg tab"
+  },
+  {
+    "id": 905,
+    "name": "Hyderquin 2% cream"
+  },
+  {
+    "id": 906,
+    "name": "Acylex 400mg tab"
+  },
+  {
+    "id": 907,
+    "name": "Osam D tab"
+  },
+  {
+    "id": 908,
+    "name": "Grasil 250mg inj"
+  },
+  {
+    "id": 909,
+    "name": "Dian 35 tab"
+  },
+  {
+    "id": 910,
+    "name": "Clobederm cream"
+  },
+  {
+    "id": 911,
+    "name": "Terbisil 125mg tab"
+  },
+  {
+    "id": 912,
+    "name": "Claritek drops"
+  },
+  {
+    "id": 913,
+    "name": "Cardace H tab"
+  },
+  {
+    "id": 914,
+    "name": "Dolor ds sup"
+  },
+  {
+    "id": 915,
+    "name": "E sal 20mg cap"
+  },
+  {
+    "id": 916,
+    "name": "Nafcin 250mg tab"
+  },
+  {
+    "id": 917,
+    "name": "Apoclox 500mg inj"
+  },
+  {
+    "id": 918,
+    "name": "Fusil ointment"
+  },
+  {
+    "id": 919,
+    "name": "Zestril 5mg tab"
+  },
+  {
+    "id": 920,
+    "name": "Rifaxa (rifaximin) 550mg tab"
+  },
+  {
+    "id": 921,
+    "name": "Lowplat 75mg tab"
+  },
+  {
+    "id": 922,
+    "name": "Ferosoft Fa tab"
+  },
+  {
+    "id": 923,
+    "name": "Methycobal tab"
+  },
+  {
+    "id": 924,
+    "name": "Lowplat plus 75mg tab"
+  },
+  {
+    "id": 925,
+    "name": "Inhibitol 30mg cap"
+  },
+  {
+    "id": 926,
+    "name": "Albenza sup"
+  },
+  {
+    "id": 927,
+    "name": "Zetro sup"
+  },
+  {
+    "id": 928,
+    "name": "Ufrim 10mg tab"
+  },
+  {
+    "id": 929,
+    "name": "Monitor 2.5mg tab"
+  },
+  {
+    "id": 930,
+    "name": "Skab cream"
+  },
+  {
+    "id": 931,
+    "name": "Daktacort cream"
+  },
+  {
+    "id": 932,
+    "name": "Novasalic cream"
+  },
+  {
+    "id": 933,
+    "name": "Calcium p sup"
+  },
+  {
+    "id": 934,
+    "name": "Flagyl inf"
+  },
+  {
+    "id": 935,
+    "name": "Neurobion inj"
+  },
+  {
+    "id": 936,
+    "name": "Brufen sup"
+  },
+  {
+    "id": 937,
+    "name": "Acenac 200mg cap"
+  },
+  {
+    "id": 938,
+    "name": "Karika sup"
+  },
+  {
+    "id": 939,
+    "name": "Jardin sup"
+  },
+  {
+    "id": 940,
+    "name": "Brophy! D sup"
+  },
+  {
+    "id": 941,
+    "name": "Cal one D tab"
+  },
+  {
+    "id": 942,
+    "name": "Rehydramin Ors"
+  },
+  {
+    "id": 943,
+    "name": "Ceporex 250mg sup"
+  },
+  {
+    "id": 944,
+    "name": "Jardymet 12.5/500mg tab"
+  },
+  {
+    "id": 945,
+    "name": "Contour 40mg cap"
+  },
+  {
+    "id": 946,
+    "name": "Bonjela oral gel"
+  },
+  {
+    "id": 947,
+    "name": "Provas Duo tab"
+  },
+  {
+    "id": 948,
+    "name": "Reteric 50mg cap"
+  },
+  {
+    "id": 949,
+    "name": "Zentel sup"
+  },
+  {
+    "id": 950,
+    "name": "Ulcenil sup"
+  },
+  {
+    "id": 951,
+    "name": "Orinase 2mg tab"
+  },
+  {
+    "id": 952,
+    "name": "Myteka 5mg tab"
+  },
+  {
+    "id": 953,
+    "name": "Canderel 200 tab"
+  },
+  {
+    "id": 954,
+    "name": "Nilstat oral drops"
+  },
+  {
+    "id": 955,
+    "name": "Levocil 250mg tab"
+  },
+  {
+    "id": 956,
+    "name": "Fonaz 150mg tab"
+  },
+  {
+    "id": 957,
+    "name": "Heptocam cap"
+  },
+  {
+    "id": 958,
+    "name": "Entamizole sup"
+  },
+  {
+    "id": 959,
+    "name": "Atcam 8mg tab"
+  },
+  {
+    "id": 960,
+    "name": "Evion 200mg cap"
+  },
+  {
+    "id": 961,
+    "name": "Avil sup"
+  },
+  {
+    "id": 962,
+    "name": "Dowfen (ketoprofen) gel"
+  },
+  {
+    "id": 963,
+    "name": "Moor 5mg tab"
+  },
+  {
+    "id": 964,
+    "name": "Estram 10mg tab otc"
+  },
+  {
+    "id": 965,
+    "name": "Honey plus sup falcon"
+  },
+  {
+    "id": 966,
+    "name": "Teph 20mg cap"
+  },
+  {
+    "id": 967,
+    "name": "Infacol sup"
+  },
+  {
+    "id": 968,
+    "name": "Ruling 40mg cap"
+  },
+  {
+    "id": 969,
+    "name": "Ramipace 10mg tab"
+  },
+  {
+    "id": 970,
+    "name": "Anacin 500mg tab"
+  },
+  {
+    "id": 971,
+    "name": "Estezene 5mg (trifluoperazine) tab"
+  },
+  {
+    "id": 972,
+    "name": "Cardinol 40mg tab"
+  },
+  {
+    "id": 973,
+    "name": "Neopres 10mg tab"
+  },
+  {
+    "id": 974,
+    "name": "Rolipeze tab"
+  },
+  {
+    "id": 975,
+    "name": "Anpra 0.5mg tab"
+  },
+  {
+    "id": 976,
+    "name": "Esso 20mg cap"
+  },
+  {
+    "id": 977,
+    "name": "Fudic B ointment"
+  },
+  {
+    "id": 978,
+    "name": "Traxacid 250mg cap"
+  },
+  {
+    "id": 979,
+    "name": "Skilax drops"
+  },
+  {
+    "id": 980,
+    "name": "Dicloran 75mg inj"
+  },
+  {
+    "id": 981,
+    "name": "Ciplet 250mg tab"
+  },
+  {
+    "id": 982,
+    "name": "Probeta N eye drops"
+  },
+  {
+    "id": 983,
+    "name": "Nicotrim sup"
+  },
+  {
+    "id": 984,
+    "name": "Xynosine children"
+  },
+  {
+    "id": 985,
+    "name": "Elbow support"
+  },
+  {
+    "id": 986,
+    "name": "Vida -z tab"
+  },
+  {
+    "id": 987,
+    "name": "Lactogrew 3 small"
+  },
+  {
+    "id": 988,
+    "name": "Concor 2.5mg tab"
+  },
+  {
+    "id": 989,
+    "name": "Clomedon 50mg tab"
+  },
+  {
+    "id": 990,
+    "name": "Panadol cf"
+  },
+  {
+    "id": 991,
+    "name": "Domel tab"
+  },
+  {
+    "id": 992,
+    "name": "Cefspan 100mg sup"
+  },
+  {
+    "id": 993,
+    "name": "Musidin 4mg tab"
+  },
+  {
+    "id": 994,
+    "name": "Mixel 400mg cap"
+  },
+  {
+    "id": 995,
+    "name": "Salbo evahlor"
+  },
+  {
+    "id": 996,
+    "name": "Voltral emagel 2%"
+  },
+  {
+    "id": 997,
+    "name": "Texicol sup"
+  },
+  {
+    "id": 998,
+    "name": "Carsel 50mg tab"
+  },
+  {
+    "id": 999,
+    "name": "Triforge 5/160/12.5mg tab"
+  },
+  {
+    "id": 1000,
+    "name": "Cardnit 6.4mg tab"
+  },
+  {
+    "id": 1001,
+    "name": "Maltofer inj"
+  },
+  {
+    "id": 1002,
+    "name": "Cefiget 200mg tab"
+  },
+  {
+    "id": 1003,
+    "name": "Diatazox sup"
+  },
+  {
+    "id": 1004,
+    "name": "Oflobid 400mg tab"
+  },
+  {
+    "id": 1005,
+    "name": "Abocal tab"
+  },
+  {
+    "id": 1006,
+    "name": "Ciproxin 250mg sup"
+  },
+  {
+    "id": 1007,
+    "name": "Grasil 100mg inj"
+  },
+  {
+    "id": 1008,
+    "name": "Maxpan 400mg cap"
+  },
+  {
+    "id": 1009,
+    "name": "Lonacort inj"
+  },
+  {
+    "id": 1010,
+    "name": "Cotton small"
+  },
+  {
+    "id": 1011,
+    "name": "Clobederm lotion"
+  },
+  {
+    "id": 1012,
+    "name": "Bronex sup"
+  },
+  {
+    "id": 1013,
+    "name": "Cefiget 100mg sup"
+  },
+  {
+    "id": 1014,
+    "name": "Artem sup"
+  },
+  {
+    "id": 1015,
+    "name": "Augmentin drops"
+  },
+  {
+    "id": 1016,
+    "name": "Lederplex sup"
+  },
+  {
+    "id": 1017,
+    "name": "Rigix drops"
+  },
+  {
+    "id": 1018,
+    "name": "Smecta shactes"
+  },
+  {
+    "id": 1019,
+    "name": "Sline 1000ml"
+  },
+  {
+    "id": 1020,
+    "name": "Indofer sup"
+  },
+  {
+    "id": 1021,
+    "name": "Xyloaid jel 2%"
+  },
+  {
+    "id": 1022,
+    "name": "N/s 100ml local"
+  },
+  {
+    "id": 1023,
+    "name": "Dextop 30mg cap"
+  },
+  {
+    "id": 1024,
+    "name": "Zephylin sup"
+  },
+  {
+    "id": 1025,
+    "name": "Apizet sup"
+  },
+  {
+    "id": 1026,
+    "name": "Epival 500mg tab"
+  },
+  {
+    "id": 1027,
+    "name": "Maltofer sup"
+  },
+  {
+    "id": 1028,
+    "name": "Ampiclox drops"
+  },
+  {
+    "id": 1029,
+    "name": "Cardiolite plus tab"
+  },
+  {
+    "id": 1030,
+    "name": "Qbal tab"
+  },
+  {
+    "id": 1031,
+    "name": "Losanta DIU 50/12.5mg tab"
+  },
+  {
+    "id": 1032,
+    "name": "Ospamox 1g tab"
+  },
+  {
+    "id": 1033,
+    "name": "Skab soap"
+  },
+  {
+    "id": 1034,
+    "name": "Moksi 400mg tab"
+  },
+  {
+    "id": 1035,
+    "name": "Mucaine sup"
+  },
+  {
+    "id": 1036,
+    "name": "laxoberon tab"
+  },
+  {
+    "id": 1037,
+    "name": "Maxit 75mg tab"
+  },
+  {
+    "id": 1038,
+    "name": "Titan 2g inj"
+  },
+  {
+    "id": 1039,
+    "name": "Rize sup"
+  },
+  {
+    "id": 1040,
+    "name": "Eskem 20mg cap"
+  },
+  {
+    "id": 1041,
+    "name": "Flexin 250mg tab"
+  },
+  {
+    "id": 1042,
+    "name": "Metocolon sup"
+  },
+  {
+    "id": 1043,
+    "name": "Fexet D tab"
+  },
+  {
+    "id": 1044,
+    "name": "Biforge 5/160mg tab"
+  },
+  {
+    "id": 1045,
+    "name": "Gention violet"
+  },
+  {
+    "id": 1046,
+    "name": "GTN fort oiment"
+  },
+  {
+    "id": 1047,
+    "name": "Magnett 100mg sup"
+  },
+  {
+    "id": 1048,
+    "name": "Orpase 100mg sup"
+  },
+  {
+    "id": 1049,
+    "name": "Klue 500mg tab"
+  },
+  {
+    "id": 1050,
+    "name": "Rovista 5mg tab"
+  },
+  {
+    "id": 1051,
+    "name": "Toot siah (qarshi) sup"
+  },
+  {
+    "id": 1052,
+    "name": "Clozox cream"
+  },
+  {
+    "id": 1053,
+    "name": "Zyrtec sup"
+  },
+  {
+    "id": 1054,
+    "name": "Seizunil sup"
+  },
+  {
+    "id": 1055,
+    "name": "Aquazole cream"
+  },
+  {
+    "id": 1056,
+    "name": "Histazolin eye drops"
+  },
+  {
+    "id": 1057,
+    "name": "Genticyn E/D"
+  },
+  {
+    "id": 1058,
+    "name": "Maxima 200mg tab"
+  },
+  {
+    "id": 1059,
+    "name": "Monteka 4mg shactes"
+  },
+  {
+    "id": 1060,
+    "name": "Glucophage 500mg tab"
+  },
+  {
+    "id": 1061,
+    "name": "Amyline 25mg tab"
+  },
+  {
+    "id": 1062,
+    "name": "Coversam 8/10mg tab"
+  },
+  {
+    "id": 1063,
+    "name": "Maltofer Fol tab"
+  },
+  {
+    "id": 1064,
+    "name": "Enterogermina 2 billion"
+  },
+  {
+    "id": 1065,
+    "name": "Glucophage 250mg tab"
+  },
+  {
+    "id": 1066,
+    "name": "Amplus 250mg inj"
+  },
+  {
+    "id": 1067,
+    "name": "Diatazox 500mg tab"
+  },
+  {
+    "id": 1068,
+    "name": "Chymoral fort tab"
+  },
+  {
+    "id": 1069,
+    "name": "Pranax 0.5mg tab"
+  },
+  {
+    "id": 1070,
+    "name": "Licofen cap"
+  },
+  {
+    "id": 1071,
+    "name": "Cefiget 400mg tab"
+  },
+  {
+    "id": 1072,
+    "name": "Cotasmi 40/12.5mg tab"
+  },
+  {
+    "id": 1073,
+    "name": "Onato 5mg tab"
+  },
+  {
+    "id": 1074,
+    "name": "Sildat (silodosin) 8mg tab"
+  },
+  {
+    "id": 1075,
+    "name": "Hipro eye drops"
+  },
+  {
+    "id": 1076,
+    "name": "Asilix 250mg tab"
+  },
+  {
+    "id": 1077,
+    "name": "Mucogin 4mg tab"
+  },
+  {
+    "id": 1078,
+    "name": "Scabfree lotion"
+  },
+  {
+    "id": 1079,
+    "name": "Bismol sup"
+  },
+  {
+    "id": 1080,
+    "name": "Nyloz 40mg inj"
+  },
+  {
+    "id": 1081,
+    "name": "Uzaril 500mg tab"
+  },
+  {
+    "id": 1082,
+    "name": "Valtec 160mg tab"
+  },
+  {
+    "id": 1083,
+    "name": "Vit 6 tab"
+  },
+  {
+    "id": 1084,
+    "name": "Brotin (bromocriptine) 2.5mg tab"
+  },
+  {
+    "id": 1085,
+    "name": "Monitor 10mg tab"
+  },
+  {
+    "id": 1086,
+    "name": "Zafixime 1g inj"
+  },
+  {
+    "id": 1087,
+    "name": "Urodonol cardail sup"
+  },
+  {
+    "id": 1088,
+    "name": "Lincocin 300mg inj"
+  },
+  {
+    "id": 1089,
+    "name": "Lactogen 2 small"
+  },
+  {
+    "id": 1090,
+    "name": "Ciplet inf"
+  },
+  {
+    "id": 1091,
+    "name": "Levoxin 500mg tab"
+  },
+  {
+    "id": 1092,
+    "name": "D max drops"
+  },
+  {
+    "id": 1093,
+    "name": "Onset 8mg tab"
+  },
+  {
+    "id": 1094,
+    "name": "Provate G cream"
+  },
+  {
+    "id": 1095,
+    "name": "Ventolin solution"
+  },
+  {
+    "id": 1096,
+    "name": "Kevalin poltus"
+  },
+  {
+    "id": 1097,
+    "name": "Vadil 3.125mg tab"
+  },
+  {
+    "id": 1098,
+    "name": "Gravinate inj otc"
+  },
+  {
+    "id": 1099,
+    "name": "Surbex Z tab"
+  },
+  {
+    "id": 1100,
+    "name": "Zafixime 500mg inj"
+  },
+  {
+    "id": 1101,
+    "name": "Zeest tab"
+  },
+  {
+    "id": 1102,
+    "name": "Clomfranil 10mg tab"
+  },
+  {
+    "id": 1103,
+    "name": "Berica 60mg tab"
+  },
+  {
+    "id": 1104,
+    "name": "Metrozin 400mg tab"
+  },
+  {
+    "id": 1105,
+    "name": "Meco tab ote"
+  },
+  {
+    "id": 1106,
+    "name": "Kroff sup"
+  },
+  {
+    "id": 1107,
+    "name": "Zauxit 20mg cap"
+  },
+  {
+    "id": 1108,
+    "name": "Polymalt sup"
+  },
+  {
+    "id": 1109,
+    "name": "Benzirin -C M/W"
+  },
+  {
+    "id": 1110,
+    "name": "Levocil 500mg tab"
+  },
+  {
+    "id": 1111,
+    "name": "Vermox 100mg tab"
+  },
+  {
+    "id": 1112,
+    "name": "Jardin 10mg tab"
+  },
+  {
+    "id": 1113,
+    "name": "Acenac 100mg tab"
+  },
+  {
+    "id": 1114,
+    "name": "Tryptanol 25mg tab"
+  },
+  {
+    "id": 1115,
+    "name": "Ascard 150mg tab"
+  },
+  {
+    "id": 1116,
+    "name": "Dimico sup"
+  },
+  {
+    "id": 1117,
+    "name": "Actim 5mg tab"
+  },
+  {
+    "id": 1118,
+    "name": "Maxima 400mg cap"
+  },
+  {
+    "id": 1119,
+    "name": "Digas drops"
+  },
+  {
+    "id": 1120,
+    "name": "Pedrol tab"
+  },
+  {
+    "id": 1121,
+    "name": "Lotrex cream"
+  },
+  {
+    "id": 1122,
+    "name": "Provate S lotion"
+  },
+  {
+    "id": 1123,
+    "name": "Voren SR100mg tab"
+  },
+  {
+    "id": 1124,
+    "name": "Ceporex 250mg cap"
+  },
+  {
+    "id": 1125,
+    "name": "Titan 500mg im inj"
+  },
+  {
+    "id": 1126,
+    "name": "Cipotic D ear drops"
+  },
+  {
+    "id": 1127,
+    "name": "Coldrex sup"
+  },
+  {
+    "id": 1128,
+    "name": "Betasalic lotion"
+  },
+  {
+    "id": 1129,
+    "name": "Provas inf"
+  },
+  {
+    "id": 1130,
+    "name": "Jardymet 12.5/1000mg tab"
+  },
+  {
+    "id": 1131,
+    "name": "Genticyn HC Drops"
+  },
+  {
+    "id": 1132,
+    "name": "Sangobion cap"
+  },
+  {
+    "id": 1133,
+    "name": "Oflox 400mg tab"
+  },
+  {
+    "id": 1134,
+    "name": "Ofis 250mg sup"
+  },
+  {
+    "id": 1135,
+    "name": "Sulvorid 50mg tab"
+  },
+  {
+    "id": 1136,
+    "name": "Ceclor drops"
+  },
+  {
+    "id": 1137,
+    "name": "Hilgas sup"
+  },
+  {
+    "id": 1138,
+    "name": "Bonmin sup"
+  },
+  {
+    "id": 1139,
+    "name": "Cardinol 10mg tab"
+  },
+  {
+    "id": 1140,
+    "name": "Pedicare ors"
+  },
+  {
+    "id": 1141,
+    "name": "Triforge 10/160/25mg tab"
+  },
+  {
+    "id": 1142,
+    "name": "Brufen 400mg tab"
+  },
+  {
+    "id": 1143,
+    "name": "Diagesic p tab"
+  },
+  {
+    "id": 1144,
+    "name": "Fericure sup"
+  },
+  {
+    "id": 1145,
+    "name": "Gravint tab"
+  },
+  {
+    "id": 1146,
+    "name": "Ferosoft FA drops"
+  },
+  {
+    "id": 1147,
+    "name": "Itp 50mg tab"
+  },
+  {
+    "id": 1148,
+    "name": "Brexin tab"
+  },
+  {
+    "id": 1149,
+    "name": "Avsar plus 5/160/12.5mg tab"
+  },
+  {
+    "id": 1150,
+    "name": "Rova 10mg tab"
+  },
+  {
+    "id": 1151,
+    "name": "Rast 10mg tab"
+  },
+  {
+    "id": 1152,
+    "name": "Rolip 5mg tab"
+  },
+  {
+    "id": 1153,
+    "name": "Scabion cream"
+  },
+  {
+    "id": 1154,
+    "name": "Demast 10mg tab otc"
+  },
+  {
+    "id": 1155,
+    "name": "Despas 200mg cap"
+  },
+  {
+    "id": 1156,
+    "name": "Mytil 250mg tab"
+  },
+  {
+    "id": 1157,
+    "name": "Claforan 0.5g inj"
+  },
+  {
+    "id": 1158,
+    "name": "Ivset"
+  },
+  {
+    "id": 1159,
+    "name": "Cecon drops"
+  },
+  {
+    "id": 1160,
+    "name": "Clobevate ointment"
+  },
+  {
+    "id": 1161,
+    "name": "Izato sup"
+  },
+  {
+    "id": 1162,
+    "name": "Progyluton tab"
+  },
+  {
+    "id": 1163,
+    "name": "Newday 10/160mg tab"
+  },
+  {
+    "id": 1164,
+    "name": "Enziclor M/W"
+  },
+  {
+    "id": 1165,
+    "name": "Berica 120mg tab"
+  },
+  {
+    "id": 1166,
+    "name": "Atiza sup"
+  },
+  {
+    "id": 1167,
+    "name": "Corex D sup"
+  },
+  {
+    "id": 1168,
+    "name": "Calvit - D siftgel"
+  },
+  {
+    "id": 1169,
+    "name": "Sprit large"
+  },
+  {
+    "id": 1170,
+    "name": "Cefyl esf sup"
+  },
+  {
+    "id": 1171,
+    "name": "Hycortisone 500mg inj"
+  },
+  {
+    "id": 1172,
+    "name": "Erythrocin sup"
+  },
+  {
+    "id": 1173,
+    "name": "Medidol tab"
+  },
+  {
+    "id": 1174,
+    "name": "Keflex 125mg sup"
+  },
+  {
+    "id": 1175,
+    "name": "Co valtec 80/12.5mg tab"
+  },
+  {
+    "id": 1176,
+    "name": "Britanyl inj"
+  },
+  {
+    "id": 1177,
+    "name": "Orglu 100mg tab"
+  },
+  {
+    "id": 1178,
+    "name": "Apitizer nurabiotic sup"
+  },
+  {
+    "id": 1179,
+    "name": "Multibionta cap"
+  },
+  {
+    "id": 1180,
+    "name": "Aria sun"
+  },
+  {
+    "id": 1181,
+    "name": "Lactogrew 3 large"
+  },
+  {
+    "id": 1182,
+    "name": "Augmentin BD sup"
+  },
+  {
+    "id": 1183,
+    "name": "Scabion lotion"
+  },
+  {
+    "id": 1184,
+    "name": "Atarax 25mg tab"
+  },
+  {
+    "id": 1185,
+    "name": "Mobil K 50mg tab"
+  },
+  {
+    "id": 1186,
+    "name": "Bonnison sup"
+  },
+  {
+    "id": 1187,
+    "name": "Bislary cap"
+  },
+  {
+    "id": 1188,
+    "name": "Gynazol 1500mg vaginal tab"
+  },
+  {
+    "id": 1189,
+    "name": "Ciproquine 250mg tab"
+  },
+  {
+    "id": 1190,
+    "name": "Folad sharbat (qrashi)"
+  },
+  {
+    "id": 1191,
+    "name": "Pladix 100ml"
+  },
+  {
+    "id": 1192,
+    "name": "Decadron inj"
+  },
+  {
+    "id": 1193,
+    "name": "Panizox 20mg tab"
+  },
+  {
+    "id": 1194,
+    "name": "Pyodine M/W"
+  },
+  {
+    "id": 1195,
+    "name": "Calcium nutrobitic sup"
+  },
+  {
+    "id": 1196,
+    "name": "Nervin 0.5mg tab"
+  },
+  {
+    "id": 1197,
+    "name": "Sulpy 50mg tab"
+  },
+  {
+    "id": 1198,
+    "name": "Focin ultra 3mg shactes"
+  },
+  {
+    "id": 1199,
+    "name": "Dermazin cream"
+  },
+  {
+    "id": 1200,
+    "name": "Vamelax tab"
+  },
+  {
+    "id": 1201,
+    "name": "Gouric 80mg tab"
+  },
+  {
+    "id": 1202,
+    "name": "Norplat-S 75/75mg tab"
+  },
+  {
+    "id": 1203,
+    "name": "Voltral 50mg tab"
+  },
+  {
+    "id": 1204,
+    "name": "Moor 4mg shactes"
+  },
+  {
+    "id": 1205,
+    "name": "Gravint sup"
+  },
+  {
+    "id": 1206,
+    "name": "Myteka 10mg tab"
+  },
+  {
+    "id": 1207,
+    "name": "Xylocain jely 2%"
+  },
+  {
+    "id": 1208,
+    "name": "Maltofer sup"
+  },
+  {
+    "id": 1209,
+    "name": "Duphalac sup"
+  },
+  {
+    "id": 1210,
+    "name": "Cartigen plus tab"
+  },
+  {
+    "id": 1211,
+    "name": "Canesten 6 veginal tab"
+  },
+  {
+    "id": 1212,
+    "name": "Piozer plus 15/500mg tab"
+  },
+  {
+    "id": 1213,
+    "name": "Amclav ds sup"
+  },
+  {
+    "id": 1214,
+    "name": "Pelton C tab"
+  },
+  {
+    "id": 1215,
+    "name": "Evion 400mg cap"
+  },
+  {
+    "id": 1216,
+    "name": "Panadol extra"
+  },
+  {
+    "id": 1217,
+    "name": "Nuberol tab"
+  },
+  {
+    "id": 1218,
+    "name": "Crescor 20mg tab"
+  },
+  {
+    "id": 1219,
+    "name": "Keflex 250mg sup"
+  },
+  {
+    "id": 1220,
+    "name": "Zafixime 250mg inj"
+  },
+  {
+    "id": 1221,
+    "name": "Cran Max sup"
+  },
+  {
+    "id": 1222,
+    "name": "Onseron sup"
+  },
+  {
+    "id": 1223,
+    "name": "Tamsolin 0.4mg cap"
+  },
+  {
+    "id": 1224,
+    "name": "Debridat 200mg tab"
+  },
+  {
+    "id": 1225,
+    "name": "Mclevo 250mg tab"
+  },
+  {
+    "id": 1226,
+    "name": "Essonave 40mg otc cap"
+  },
+  {
+    "id": 1227,
+    "name": "Metrozine sup"
+  },
+  {
+    "id": 1228,
+    "name": "Fexet 120mg tab"
+  },
+  {
+    "id": 1229,
+    "name": "Gaviscon adv sup"
+  },
+  {
+    "id": 1230,
+    "name": "Nabil 5mg tab"
+  },
+  {
+    "id": 1231,
+    "name": "Panizox 40mg tab"
+  },
+  {
+    "id": 1232,
+    "name": "Septrab ds tab"
+  },
+  {
+    "id": 1233,
+    "name": "Revitale multi tab"
+  },
+  {
+    "id": 1234,
+    "name": "Calamox Ig tab"
+  },
+  {
+    "id": 1235,
+    "name": "Velosef 500mg cap"
+  },
+  {
+    "id": 1236,
+    "name": "Ampicillin 250mg inj"
+  },
+  {
+    "id": 1237,
+    "name": "Meteor 500mg tab"
+  },
+  {
+    "id": 1238,
+    "name": "Prodant T/P"
+  },
+  {
+    "id": 1239,
+    "name": "Maxpan 200mg cap"
+  },
+  {
+    "id": 1240,
+    "name": "Cofcol tab"
+  },
+  {
+    "id": 1241,
+    "name": "Levomerc 500mg tab"
+  },
+  {
+    "id": 1242,
+    "name": "Amoxi clav 625mg tab"
+  },
+  {
+    "id": 1243,
+    "name": "Panamin G drip"
+  },
+  {
+    "id": 1244,
+    "name": "Glucophage XR 750mg tab"
+  },
+  {
+    "id": 1245,
+    "name": "Alvigo sup"
+  },
+  {
+    "id": 1246,
+    "name": "Osnate D tab"
+  },
+  {
+    "id": 1247,
+    "name": "Rondec C sup"
+  },
+  {
+    "id": 1248,
+    "name": "Nilacid sup"
+  },
+  {
+    "id": 1249,
+    "name": "Bf2"
+  },
+  {
+    "id": 1250,
+    "name": "Otid 500mg cap"
+  },
+  {
+    "id": 1251,
+    "name": "Combinol jonair"
+  },
+  {
+    "id": 1252,
+    "name": "Transamin 500mg inj"
+  },
+  {
+    "id": 1253,
+    "name": "Cartosporin eye ointment"
+  },
+  {
+    "id": 1254,
+    "name": "Augmentin Ds sup"
+  },
+  {
+    "id": 1255,
+    "name": "Coplavix 75/75mg tab"
+  },
+  {
+    "id": 1256,
+    "name": "Inhlition mask adults"
+  },
+  {
+    "id": 1257,
+    "name": "25%gelicose 20ml"
+  },
+  {
+    "id": 1258,
+    "name": "Panadol sup"
+  },
+  {
+    "id": 1259,
+    "name": "Entox p tab"
+  },
+  {
+    "id": 1260,
+    "name": "Mac F tab"
+  },
+  {
+    "id": 1261,
+    "name": "Zavget 10mg tab"
+  },
+  {
+    "id": 1262,
+    "name": "Ridox 100mg cap"
+  },
+  {
+    "id": 1263,
+    "name": "Cyrocin 250mg sup"
+  },
+  {
+    "id": 1264,
+    "name": "Novasalic lotion"
+  },
+  {
+    "id": 1265,
+    "name": "Rithmo 125mg sup"
+  },
+  {
+    "id": 1266,
+    "name": "Ciproxin 500mg tab"
+  },
+  {
+    "id": 1267,
+    "name": "Bevidox tab"
+  },
+  {
+    "id": 1268,
+    "name": "Optaclore eye drops"
+  },
+  {
+    "id": 1269,
+    "name": "Umbilica gel"
+  },
+  {
+    "id": 1270,
+    "name": "Biforge 10/160mg tab"
+  },
+  {
+    "id": 1271,
+    "name": "Gynazol vaginal cream"
+  },
+  {
+    "id": 1272,
+    "name": "Oxidil 500mg iv inj"
+  },
+  {
+    "id": 1273,
+    "name": "Levijon sup"
+  },
+  {
+    "id": 1274,
+    "name": "Laxoberon sup"
+  },
+  {
+    "id": 1275,
+    "name": "Gen-M sup"
+  },
+  {
+    "id": 1276,
+    "name": "Mexamine inj"
+  },
+  {
+    "id": 1277,
+    "name": "Orinase Img tab"
+  },
+  {
+    "id": 1278,
+    "name": "Corinef 100mg sup"
+  },
+  {
+    "id": 1279,
+    "name": "Effiflox 500mg tab"
+  },
+  {
+    "id": 1280,
+    "name": "Provate lotion"
+  },
+  {
+    "id": 1281,
+    "name": "Keflex drops"
+  },
+  {
+    "id": 1282,
+    "name": "Dolor tab"
+  },
+  {
+    "id": 1283,
+    "name": "Zeespa 135mg tab"
+  },
+  {
+    "id": 1284,
+    "name": "Lodopin 5mg tab"
+  },
+  {
+    "id": 1285,
+    "name": "Nebra eye drops"
+  },
+  {
+    "id": 1286,
+    "name": "Sustac 2.6mg tab"
+  },
+  {
+    "id": 1287,
+    "name": "Carveda 3.125mg tab"
+  },
+  {
+    "id": 1288,
+    "name": "Citro soda shactes"
+  },
+  {
+    "id": 1289,
+    "name": "Dyclo inj"
+  },
+  {
+    "id": 1290,
+    "name": "Epival 250mg tab"
+  },
+  {
+    "id": 1291,
+    "name": "Airtal 100mg tab"
+  },
+  {
+    "id": 1292,
+    "name": "Velosef 125mg sup"
+  },
+  {
+    "id": 1293,
+    "name": "Coldrex tab"
+  },
+  {
+    "id": 1294,
+    "name": "Serc 24mg tab"
+  },
+  {
+    "id": 1295,
+    "name": "Reltus dm sup"
+  },
+  {
+    "id": 1296,
+    "name": "Stemital 5mg tab"
+  },
+  {
+    "id": 1297,
+    "name": "Plazo 200mg sup"
+  },
+  {
+    "id": 1298,
+    "name": "GTN omint"
+  },
+  {
+    "id": 1299,
+    "name": "Vibion inj"
+  },
+  {
+    "id": 1300,
+    "name": "Flogocid ointment"
+  },
+  {
+    "id": 1301,
+    "name": "Artem 40/240mg tab"
+  },
+  {
+    "id": 1302,
+    "name": "Telsarta A 5/40mg tab"
+  },
+  {
+    "id": 1303,
+    "name": "Losanta 50mg tab"
+  },
+  {
+    "id": 1304,
+    "name": "Tonoflex p tab"
+  },
+  {
+    "id": 1305,
+    "name": "Iron sup nutrabiotics"
+  },
+  {
+    "id": 1306,
+    "name": "Efaston 10mg tab"
+  },
+  {
+    "id": 1307,
+    "name": "Dioplus 5/80mg tab"
+  },
+  {
+    "id": 1308,
+    "name": "Oxytetracycline 250mg cap"
+  },
+  {
+    "id": 1309,
+    "name": "Daonil 5mg tab"
+  },
+  {
+    "id": 1310,
+    "name": "Meth f zahi tab"
+  },
+  {
+    "id": 1311,
+    "name": "Efix 100mg sup"
+  },
+  {
+    "id": 1312,
+    "name": "Lipiget 20mg tab"
+  },
+  {
+    "id": 1313,
+    "name": "Velosef 250mg sup"
+  },
+  {
+    "id": 1314,
+    "name": "Polyfex plus omint"
+  },
+  {
+    "id": 1315,
+    "name": "Voren 25mg tab"
+  },
+  {
+    "id": 1316,
+    "name": "2sum J inj"
+  },
+  {
+    "id": 1317,
+    "name": "Colofic 135mg tab"
+  },
+  {
+    "id": 1318,
+    "name": "Ezomol 20mg cap"
+  },
+  {
+    "id": 1319,
+    "name": "Pulmonol sup"
+  },
+  {
+    "id": 1320,
+    "name": "Ketress sup"
+  },
+  {
+    "id": 1321,
+    "name": "Ceclor 125mg sup"
+  },
+  {
+    "id": 1322,
+    "name": "Bylax tab"
+  },
+  {
+    "id": 1323,
+    "name": "Miura D inj"
+  },
+  {
+    "id": 1324,
+    "name": "Arceva ds sup"
+  },
+  {
+    "id": 1325,
+    "name": "Maxpan 100mg sup"
+  },
+  {
+    "id": 1326,
+    "name": "Calpol tab"
+  },
+  {
+    "id": 1327,
+    "name": "Pexnew 10mg tab"
+  },
+  {
+    "id": 1328,
+    "name": "Gynazol 6 vaginal tab"
+  },
+  {
+    "id": 1329,
+    "name": "Dowfylin sup"
+  },
+  {
+    "id": 1330,
+    "name": "Rova 5mg tab"
+  },
+  {
+    "id": 1331,
+    "name": "Mytil 125mg sup"
+  },
+  {
+    "id": 1332,
+    "name": "Blokium 100mg tab"
+  },
+  {
+    "id": 1333,
+    "name": "Mabil tab"
+  },
+  {
+    "id": 1334,
+    "name": "Eplazyme sup"
+  },
+  {
+    "id": 1335,
+    "name": "Oxidil 250mg iv inj"
+  },
+  {
+    "id": 1336,
+    "name": "Gouric 40mg tab"
+  },
+  {
+    "id": 1337,
+    "name": "Cardiolite 25mg tab"
+  },
+  {
+    "id": 1338,
+    "name": "Kenacomb cream"
+  },
+  {
+    "id": 1339,
+    "name": "Flytro cream"
+  },
+  {
+    "id": 1340,
+    "name": "Aqua 5ml D/W"
+  },
+  {
+    "id": 1341,
+    "name": "Prednisynth eye drops"
+  },
+  {
+    "id": 1342,
+    "name": "Zolanix 150mg cap"
+  },
+  {
+    "id": 1343,
+    "name": "Plivil inj"
+  },
+  {
+    "id": 1344,
+    "name": "Methergine tab"
+  },
+  {
+    "id": 1345,
+    "name": "Intig D sup"
+  },
+  {
+    "id": 1346,
+    "name": "Heq 200mg tab"
+  },
+  {
+    "id": 1347,
+    "name": "Torex sup"
+  },
+  {
+    "id": 1348,
+    "name": "Daflon 500mg tab"
+  },
+  {
+    "id": 1349,
+    "name": "Spadix inj"
+  },
+  {
+    "id": 1350,
+    "name": "Gabica 150mg cap"
+  },
+  {
+    "id": 1351,
+    "name": "Olcuf sup"
+  },
+  {
+    "id": 1352,
+    "name": "Claritek 250mg tab"
+  },
+  {
+    "id": 1353,
+    "name": "Ampiclox 500mg cap"
+  },
+  {
+    "id": 1354,
+    "name": "Glycerine suppositorise children"
+  },
+  {
+    "id": 1355,
+    "name": "Zetex tab"
+  },
+  {
+    "id": 1356,
+    "name": "Fibo sup"
+  },
+  {
+    "id": 1357,
+    "name": "Supari pak gurshi"
+  },
+  {
+    "id": 1358,
+    "name": "Co benz tab"
+  },
+  {
+    "id": 1359,
+    "name": "Pulmitac (bambuterol)1Omg tab"
+  },
+  {
+    "id": 1360,
+    "name": "Augmentin 625mg tab"
+  },
+  {
+    "id": 1361,
+    "name": "Gvia M 50/500mg tab"
+  },
+  {
+    "id": 1362,
+    "name": "Paraxyl (paroxetine) 20mg tab"
+  },
+  {
+    "id": 1363,
+    "name": "Siroline sup"
+  },
+  {
+    "id": 1364,
+    "name": "Artem ds sup"
+  },
+  {
+    "id": 1365,
+    "name": "Nezkil 400mg tab"
+  },
+  {
+    "id": 1366,
+    "name": "Minicol drops"
+  },
+  {
+    "id": 1367,
+    "name": "Fedralka sup"
+  },
+  {
+    "id": 1368,
+    "name": "Amoxi clav 1g tab"
+  },
+  {
+    "id": 1369,
+    "name": "Tobra eye ointment"
+  },
+  {
+    "id": 1370,
+    "name": "Amplus 500mg inj"
+  },
+  {
+    "id": 1371,
+    "name": "Conkast 5mg tab"
+  },
+  {
+    "id": 1372,
+    "name": "Fusadine ointment"
+  },
+  {
+    "id": 1373,
+    "name": "Toradol inj"
+  },
+  {
+    "id": 1374,
+    "name": "Colic sup"
+  },
+  {
+    "id": 1375,
+    "name": "Panadol tab"
+  },
+  {
+    "id": 1376,
+    "name": "Lanoxin tab"
+  },
+  {
+    "id": 1377,
+    "name": "Stugeron tab"
+  },
+  {
+    "id": 1378,
+    "name": "Ramipace 5mg tab"
+  },
+  {
+    "id": 1379,
+    "name": "Neopres 5mg tab"
+  },
+  {
+    "id": 1380,
+    "name": "Mytil 250mg sup"
+  },
+  {
+    "id": 1381,
+    "name": "Evion 600mg cap"
+  },
+  {
+    "id": 1382,
+    "name": "Trusilk 4/0"
+  },
+  {
+    "id": 1383,
+    "name": "Gt line 100mg sup"
+  },
+  {
+    "id": 1384,
+    "name": "Neodipar 500mg tab"
+  },
+  {
+    "id": 1385,
+    "name": "Moodi 3mg tab"
+  },
+  {
+    "id": 1386,
+    "name": "Caricef 400mg cap"
+  },
+  {
+    "id": 1387,
+    "name": "Glyrate sr 2.6mg tab"
+  },
+  {
+    "id": 1388,
+    "name": "Clozole H cream"
+  },
+  {
+    "id": 1389,
+    "name": "Vidaylin T tab"
+  },
+  {
+    "id": 1390,
+    "name": "Febrol tab"
+  },
+  {
+    "id": 1391,
+    "name": "Ventolin ehvahler"
+  },
+  {
+    "id": 1392,
+    "name": "Ciproxin 250mg tab"
+  },
+  {
+    "id": 1393,
+    "name": "Sillver sup"
+  },
+  {
+    "id": 1394,
+    "name": "Altirs cordail sup"
+  },
+  {
+    "id": 1395,
+    "name": "R/L 500ml"
+  },
+  {
+    "id": 1396,
+    "name": "Bascopan plus tab"
+  },
+  {
+    "id": 1397,
+    "name": "Cardiolite 100mg tab"
+  },
+  {
+    "id": 1398,
+    "name": "Ridospa tab"
+  },
+  {
+    "id": 1399,
+    "name": "Spiano 100mg tab"
+  },
+  {
+    "id": 1400,
+    "name": "Amlo q5mg tab"
+  },
+  {
+    "id": 1401,
+    "name": "Solifen 5mg tab"
+  },
+  {
+    "id": 1402,
+    "name": "Nedo plus 3 milk"
+  },
+  {
+    "id": 1403,
+    "name": "Zetro 250mg tab"
+  },
+  {
+    "id": 1404,
+    "name": "Healit skin ointment"
+  },
+  {
+    "id": 1405,
+    "name": "Corinef 400mg cap"
+  },
+  {
+    "id": 1406,
+    "name": "Ziscar 10mg tab"
+  },
+  {
+    "id": 1407,
+    "name": "Gabica 50mg cap"
+  },
+  {
+    "id": 1408,
+    "name": "Pedrol total"
+  },
+  {
+    "id": 1409,
+    "name": "Arnil 75mg tab otc"
+  },
+  {
+    "id": 1410,
+    "name": "Werdex 30mg cap"
+  },
+  {
+    "id": 1411,
+    "name": "1cc local"
+  },
+  {
+    "id": 1412,
+    "name": "Heptocam 120ml sup"
+  },
+  {
+    "id": 1413,
+    "name": "Monteka 5mg tab"
+  },
+  {
+    "id": 1414,
+    "name": "Azolam 0.5mg tab"
+  },
+  {
+    "id": 1415,
+    "name": "Azomax 250mg cap"
+  },
+  {
+    "id": 1416,
+    "name": "Hope 50mg tab otc"
+  },
+  {
+    "id": 1417,
+    "name": "Breavent 200mcg rotacaps"
+  },
+  {
+    "id": 1418,
+    "name": "Neuromet tab"
+  },
+  {
+    "id": 1419,
+    "name": "Arceva plus 80/480mg tab"
+  },
+  {
+    "id": 1420,
+    "name": "Lincocin 500mg cap"
+  },
+  {
+    "id": 1421,
+    "name": "Danzen fort tab"
+  },
+  {
+    "id": 1422,
+    "name": "Maxef 1g inj"
+  },
+  {
+    "id": 1423,
+    "name": "Enrich sup"
+  },
+  {
+    "id": 1424,
+    "name": "Extor 5/160mg tab"
+  },
+  {
+    "id": 1425,
+    "name": "Rigix sup"
+  },
+  {
+    "id": 1426,
+    "name": "Azomax 500mg tab"
+  },
+  {
+    "id": 1427,
+    "name": "Zafnol 50mg tab"
+  },
+  {
+    "id": 1428,
+    "name": "Benzyl Benzoate lotion"
+  },
+  {
+    "id": 1429,
+    "name": "Jetepar inj"
+  },
+  {
+    "id": 1430,
+    "name": "Gen-M( large )Sup"
+  },
+  {
+    "id": 1431,
+    "name": "M low 10mg tab"
+  },
+  {
+    "id": 1432,
+    "name": "Pelton sup"
+  },
+  {
+    "id": 1433,
+    "name": "Voltral 75mg inj"
+  },
+  {
+    "id": 1434,
+    "name": "Joshanda johar"
+  },
+  {
+    "id": 1435,
+    "name": "Exocin eye ointment"
+  },
+  {
+    "id": 1436,
+    "name": "Dermosporin skin cream"
+  },
+  {
+    "id": 1437,
+    "name": "Nebil 2.5mg tab"
+  },
+  {
+    "id": 1438,
+    "name": "Mits ds tab"
+  },
+  {
+    "id": 1439,
+    "name": "Ziscar 5mg tab"
+  },
+  {
+    "id": 1440,
+    "name": "Cran Max sheates"
+  },
+  {
+    "id": 1441,
+    "name": "Es pramcit 10mg tab"
+  },
+  {
+    "id": 1442,
+    "name": "Saniplast"
+  },
+  {
+    "id": 1443,
+    "name": "Vebromycin 100mg cap"
+  },
+  {
+    "id": 1444,
+    "name": "Dexxoo 60mg cap"
+  },
+  {
+    "id": 1445,
+    "name": "Silliver sup"
+  },
+  {
+    "id": 1446,
+    "name": "Musidin 2mg tab"
+  },
+  {
+    "id": 1447,
+    "name": "Resochin tab"
+  },
+  {
+    "id": 1448,
+    "name": "Hepamarz sup"
+  },
+  {
+    "id": 1449,
+    "name": "Alcuflex 550mg tab"
+  },
+  {
+    "id": 1450,
+    "name": "Quinodex ear drops"
+  },
+  {
+    "id": 1451,
+    "name": "Laxotonil 3mg tab"
+  },
+  {
+    "id": 1452,
+    "name": "Pyodine gel"
+  },
+  {
+    "id": 1453,
+    "name": "Sulvorid 25mg tab"
+  },
+  {
+    "id": 1454,
+    "name": "Penicillin 4 million inj"
+  },
+  {
+    "id": 1455,
+    "name": "Indomethacin cap"
+  },
+  {
+    "id": 1456,
+    "name": "Lotrex lotion"
+  },
+  {
+    "id": 1457,
+    "name": "Dexy sup"
+  },
+  {
+    "id": 1458,
+    "name": "Enervit sup"
+  },
+  {
+    "id": 1459,
+    "name": "Piriton sup"
+  },
+  {
+    "id": 1460,
+    "name": "Dextop 60mg cap"
+  },
+  {
+    "id": 1461,
+    "name": "Moxigan eye drops"
+  },
+  {
+    "id": 1462,
+    "name": "Liv.52 tab"
+  },
+  {
+    "id": 1463,
+    "name": "Amclav 375mg tab"
+  },
+  {
+    "id": 1464,
+    "name": "Ispaghol 25gram marhaba"
+  },
+  {
+    "id": 1465,
+    "name": "Castrol oil"
+  },
+  {
+    "id": 1466,
+    "name": "Calamox 375mg tab"
+  },
+  {
+    "id": 1467,
+    "name": "Es pramcit 5mg tab"
+  },
+  {
+    "id": 1468,
+    "name": "Cardace 10mg tab"
+  },
+  {
+    "id": 1469,
+    "name": "Nervin 0.25mg tab"
+  },
+  {
+    "id": 1470,
+    "name": "Cefspan 200mg cap"
+  },
+  {
+    "id": 1471,
+    "name": "Bf3"
+  },
+  {
+    "id": 1472,
+    "name": "Focin 250mg sup"
+  },
+  {
+    "id": 1473,
+    "name": "Panslay 75mg tab"
+  },
+  {
+    "id": 1474,
+    "name": "Gripe water (Nunihal)"
+  },
+  {
+    "id": 1475,
+    "name": "Fefolvit cap"
+  },
+  {
+    "id": 1476,
+    "name": "Angisaid tab S/L"
+  },
+  {
+    "id": 1477,
+    "name": "Lactogen recover"
+  },
+  {
+    "id": 1478,
+    "name": "Vastarel MR 35mg tab"
+  },
+  {
+    "id": 1479,
+    "name": "Voren 50mg tab"
+  },
+  {
+    "id": 1480,
+    "name": "Alkeris 100mg tab"
+  },
+  {
+    "id": 1481,
+    "name": "Digaplex sup"
+  },
+  {
+    "id": 1482,
+    "name": "Dicloran 50mg tab"
+  },
+  {
+    "id": 1483,
+    "name": "Famopsin 40mg tab"
+  },
+  {
+    "id": 1484,
+    "name": "Somogel"
+  },
+  {
+    "id": 1485,
+    "name": "Decalce tab"
+  },
+  {
+    "id": 1486,
+    "name": "Cal one D sup"
+  },
+  {
+    "id": 1487,
+    "name": "Cardnit 2.6mg tab"
+  },
+  {
+    "id": 1488,
+    "name": "Artem plus 80/480mg tab"
+  },
+  {
+    "id": 1489,
+    "name": "Treviamet 50/850mg tab"
+  },
+  {
+    "id": 1490,
+    "name": "Acefyl (small) sup"
+  },
+  {
+    "id": 1491,
+    "name": "Leyn 500mg tab"
+  },
+  {
+    "id": 1492,
+    "name": "Nexole 30mg cap"
+  },
+  {
+    "id": 1493,
+    "name": "Ansaid 100mg tab"
+  },
+  {
+    "id": 1494,
+    "name": "Cynodox C sup"
+  },
+  {
+    "id": 1495,
+    "name": "FmI neo eye drops"
+  },
+  {
+    "id": 1496,
+    "name": "Normitab 100mg tab"
+  },
+  {
+    "id": 1497,
+    "name": "Macnaz oral gel"
+  },
+  {
+    "id": 1498,
+    "name": "Effiflox 250mg tab"
+  },
+  {
+    "id": 1499,
+    "name": "Traxacid 500mg tab"
+  },
+  {
+    "id": 1500,
+    "name": "Norvasc 10mg tab"
+  },
+  {
+    "id": 1501,
+    "name": "Zentro 20mg tab"
+  },
+  {
+    "id": 1502,
+    "name": "Glavose 7\" plastic"
+  },
+  {
+    "id": 1503,
+    "name": "Mebever mr 200mg cap"
+  },
+  {
+    "id": 1504,
+    "name": "Covam 10/160mg tab"
+  },
+  {
+    "id": 1505,
+    "name": "Braxin 20mg tab"
+  },
+  {
+    "id": 1506,
+    "name": "Navidat 500mg tab"
+  },
+  {
+    "id": 1507,
+    "name": "Corn cap"
+  },
+  {
+    "id": 1508,
+    "name": "Rolip 10mg tab"
+  },
+  {
+    "id": 1509,
+    "name": "Teph 40mg cap"
+  },
+  {
+    "id": 1510,
+    "name": "Dilair 1Omg tab"
+  },
+  {
+    "id": 1511,
+    "name": "Rithmo 500mg tab"
+  },
+  {
+    "id": 1512,
+    "name": "Spasfon tab"
+  },
+  {
+    "id": 1513,
+    "name": "Felbex 20mg tab"
+  },
+  {
+    "id": 1514,
+    "name": "Omixim 400mg cap"
+  },
+  {
+    "id": 1515,
+    "name": "T-day tab"
+  },
+  {
+    "id": 1516,
+    "name": "Zjan sweetner 200 tab"
+  },
+  {
+    "id": 1517,
+    "name": "Softin sup"
+  },
+  {
+    "id": 1518,
+    "name": "DX3 inj"
+  },
+  {
+    "id": 1519,
+    "name": "Urixine 400mg tab"
+  },
+  {
+    "id": 1520,
+    "name": "Glycrin small"
+  },
+  {
+    "id": 1521,
+    "name": "Gynosporin vaginal cream"
+  },
+  {
+    "id": 1522,
+    "name": "Cran Max aqua sup"
+  },
+  {
+    "id": 1523,
+    "name": "Brophyal sup"
+  },
+  {
+    "id": 1524,
+    "name": "Helezol 40mg cap"
+  },
+  {
+    "id": 1525,
+    "name": "Avsar plus 10/160/12.5mg tab"
+  },
+  {
+    "id": 1526,
+    "name": "Lorin nsa 10mg tab"
+  },
+  {
+    "id": 1527,
+    "name": "Artifen 50mg tab"
+  },
+  {
+    "id": 1528,
+    "name": "3cc D/S"
+  },
+  {
+    "id": 1529,
+    "name": "Emergency pills"
+  },
+  {
+    "id": 1530,
+    "name": "Orinase 4mg tab"
+  },
+  {
+    "id": 1531,
+    "name": "Genticyn cream"
+  },
+  {
+    "id": 1532,
+    "name": "Lorin nsa sup"
+  },
+  {
+    "id": 1533,
+    "name": "Rheumonil (piroxicam) tab ote"
+  },
+  {
+    "id": 1534,
+    "name": "Entamizole ds tab"
+  },
+  {
+    "id": 1535,
+    "name": "Betasalic ointment"
+  },
+  {
+    "id": 1536,
+    "name": "Diamicron MR 30mg tab"
+  },
+  {
+    "id": 1537,
+    "name": "Izato 500mg tab"
+  },
+  {
+    "id": 1538,
+    "name": "Ac d3 inj"
+  },
+  {
+    "id": 1539,
+    "name": "Podina green large sup"
+  },
+  {
+    "id": 1540,
+    "name": "Surbex T tab"
+  },
+  {
+    "id": 1541,
+    "name": "Formiget cap"
+  },
+  {
+    "id": 1542,
+    "name": "Septran ds sup"
+  },
+  {
+    "id": 1543,
+    "name": "Proxen 500mg tab"
+  },
+  {
+    "id": 1544,
+    "name": "Xinia sr 1OOmg cap"
+  },
+  {
+    "id": 1545,
+    "name": "Relispa fort tab"
+  },
+  {
+    "id": 1546,
+    "name": "Vamelax sup"
+  },
+  {
+    "id": 1547,
+    "name": "Voltral SR 100mg tab"
+  },
+  {
+    "id": 1548,
+    "name": "Beltapro cream"
+  },
+  {
+    "id": 1549,
+    "name": "Pulmitac sup"
+  },
+  {
+    "id": 1550,
+    "name": "Oflox 200mg tab"
+  },
+  {
+    "id": 1551,
+    "name": "Cecon tab"
+  },
+  {
+    "id": 1552,
+    "name": "Kufrid sup"
+  },
+  {
+    "id": 1553,
+    "name": "Colic drops"
+  },
+  {
+    "id": 1554,
+    "name": "Boan D3 softgels"
+  },
+  {
+    "id": 1555,
+    "name": "Azitma 250mg tab"
+  },
+  {
+    "id": 1556,
+    "name": "Xcept 5mg tab"
+  },
+  {
+    "id": 1557,
+    "name": "Epival CR 500mg tab"
+  },
+  {
+    "id": 1558,
+    "name": "Risek 40mg inj"
+  },
+  {
+    "id": 1559,
+    "name": "Sefol tab"
+  },
+  {
+    "id": 1560,
+    "name": "Dexatob ear drops"
+  },
+  {
+    "id": 1561,
+    "name": "Ispaghole shactes marhba"
+  },
+  {
+    "id": 1562,
+    "name": "Carsel plus 100mg tab"
+  },
+  {
+    "id": 1563,
+    "name": "Sec D/S"
+  },
+  {
+    "id": 1564,
+    "name": "Amclav 156mg sup"
+  },
+  {
+    "id": 1565,
+    "name": "Fortazim 500mg inj"
+  },
+  {
+    "id": 1566,
+    "name": "Gen-M 20/120mg tab"
+  },
+  {
+    "id": 1567,
+    "name": "Erythrocin 500mg tab"
+  },
+  {
+    "id": 1568,
+    "name": "Xobix 15mg tab"
+  },
+  {
+    "id": 1569,
+    "name": "Actifed P sup"
+  },
+  {
+    "id": 1570,
+    "name": "Polymalt tab"
+  },
+  {
+    "id": 1571,
+    "name": "Ventolin sup"
+  },
+  {
+    "id": 1572,
+    "name": "Wax aid"
+  },
+  {
+    "id": 1573,
+    "name": "Clotrim lotion"
+  },
+  {
+    "id": 1574,
+    "name": "Titan 250mg im inj"
+  },
+  {
+    "id": 1575,
+    "name": "Zatofen tab"
+  },
+  {
+    "id": 1576,
+    "name": "Acemed 100mg tab"
+  },
+  {
+    "id": 1577,
+    "name": "Boan-E softgel"
+  },
+  {
+    "id": 1578,
+    "name": "Miura D drops"
+  },
+  {
+    "id": 1579,
+    "name": "Atiza 5mg tab"
+  },
+  {
+    "id": 1580,
+    "name": "Mntk 10mg tab"
+  },
+  {
+    "id": 1581,
+    "name": "Ampiclox 250mg sup"
+  },
+  {
+    "id": 1582,
+    "name": "Debridat 100mg tab"
+  },
+  {
+    "id": 1583,
+    "name": "Benzol spary"
+  },
+  {
+    "id": 1584,
+    "name": "Olinc 600mg inj"
+  },
+  {
+    "id": 1585,
+    "name": "Zentro 40mg tab"
+  },
+  {
+    "id": 1586,
+    "name": "Zepres 10mg tab"
+  },
+  {
+    "id": 1587,
+    "name": "Bismol tab"
+  },
+  {
+    "id": 1588,
+    "name": "Tranlin 4mg tab"
+  },
+  {
+    "id": 1589,
+    "name": "Unifyline sup"
+  },
+  {
+    "id": 1590,
+    "name": "Fenbro sup"
+  },
+  {
+    "id": 1591,
+    "name": "Biforge 5/80mg tab"
+  },
+  {
+    "id": 1592,
+    "name": "Visavit tab"
+  },
+  {
+    "id": 1593,
+    "name": "Cyrocin 250mg tab"
+  },
+  {
+    "id": 1594,
+    "name": "Glinext mr 30mg tab"
+  },
+  {
+    "id": 1595,
+    "name": "Meteor 850mg tab"
+  },
+  {
+    "id": 1596,
+    "name": "Tobradex eye ointment"
+  },
+  {
+    "id": 1597,
+    "name": "Gutti (falcon)"
+  },
+  {
+    "id": 1598,
+    "name": "Getryl Img tab"
+  },
+  {
+    "id": 1599,
+    "name": "Betnisol N E/D"
+  },
+  {
+    "id": 1600,
+    "name": "Sofvasic 5mg tab"
+  },
+  {
+    "id": 1601,
+    "name": "Sensival 25mg tab"
+  },
+  {
+    "id": 1602,
+    "name": "Dicloran Disparlet tab"
+  },
+  {
+    "id": 1603,
+    "name": "Lalap 50mg tab"
+  },
+  {
+    "id": 1604,
+    "name": "Zephylin 400mg cap"
+  },
+  {
+    "id": 1605,
+    "name": "Doxycycline 100mg otc"
+  },
+  {
+    "id": 1606,
+    "name": "Biomint sup falcon"
+  },
+  {
+    "id": 1607,
+    "name": "Zeenaryl 3mg tab"
+  },
+  {
+    "id": 1608,
+    "name": "Progrel ap 75/75mg tab"
+  },
+  {
+    "id": 1609,
+    "name": "Salinsae nasal drops"
+  },
+  {
+    "id": 1610,
+    "name": "Podina white small sup"
+  },
+  {
+    "id": 1611,
+    "name": "Riam 400mg tab"
+  },
+  {
+    "id": 1612,
+    "name": "Neoprox 500mg tab"
+  },
+  {
+    "id": 1613,
+    "name": "Bronchal feroz sons sup"
+  },
+  {
+    "id": 1614,
+    "name": "Lame 10mg tab"
+  },
+  {
+    "id": 1615,
+    "name": "Maxolon tab"
+  },
+  {
+    "id": 1616,
+    "name": "Cardiolite 50mg tab"
+  },
+  {
+    "id": 1617,
+    "name": "Maxef 2g inj"
+  },
+  {
+    "id": 1618,
+    "name": "Disprin tab"
+  },
+  {
+    "id": 1619,
+    "name": "Co eziday 50/12.5mg tab"
+  },
+  {
+    "id": 1620,
+    "name": "Probase 5mg tab"
+  },
+  {
+    "id": 1621,
+    "name": "Atenorm 100mg tab"
+  },
+  {
+    "id": 1622,
+    "name": "Reline 50mg tab"
+  },
+  {
+    "id": 1623,
+    "name": "Betnisol tab"
+  },
+  {
+    "id": 1624,
+    "name": "Cef od 100mg sup"
+  },
+  {
+    "id": 1625,
+    "name": "Riam sup"
+  },
+  {
+    "id": 1626,
+    "name": "Icon 100mg cap"
+  },
+  {
+    "id": 1627,
+    "name": "Ekstra tab"
+  },
+  {
+    "id": 1628,
+    "name": "Ruling 20mg cap"
+  },
+  {
+    "id": 1629,
+    "name": "Amclav 1g tab"
+  },
+  {
+    "id": 1630,
+    "name": "Bevexine 20mg tab"
+  },
+  {
+    "id": 1631,
+    "name": "Xynosine spary"
+  },
+  {
+    "id": 1632,
+    "name": "High c shactes"
+  },
+  {
+    "id": 1633,
+    "name": "Arinac tab"
+  },
+  {
+    "id": 1634,
+    "name": "Britanyl sup"
+  },
+  {
+    "id": 1635,
+    "name": "Sita Met 50/1000mg tab"
+  },
+  {
+    "id": 1636,
+    "name": "Chewcal tab"
+  },
+  {
+    "id": 1637,
+    "name": "Valtec AM 10/160mg tab"
+  },
+  {
+    "id": 1638,
+    "name": "Carlov 3.125mg tab"
+  },
+  {
+    "id": 1639,
+    "name": "Rapicort Smg tab"
+  },
+  {
+    "id": 1640,
+    "name": "Zeftrox 1g inj"
+  },
+  {
+    "id": 1641,
+    "name": "Vikonon sup"
+  },
+  {
+    "id": 1642,
+    "name": "Combinol D sup"
+  },
+  {
+    "id": 1643,
+    "name": "Suduri sup"
+  },
+  {
+    "id": 1644,
+    "name": "Mits 7.5mg tab"
+  },
+  {
+    "id": 1645,
+    "name": "Metodine tab"
+  },
+  {
+    "id": 1646,
+    "name": "Ogrel plus 81 tab"
+  },
+  {
+    "id": 1647,
+    "name": "Torex ex sup"
+  },
+  {
+    "id": 1648,
+    "name": "Duphaston 10mg tab"
+  },
+  {
+    "id": 1649,
+    "name": "Claritek 125mg sup"
+  },
+  {
+    "id": 1650,
+    "name": "Enfys 40mg cap"
+  },
+  {
+    "id": 1651,
+    "name": "Febrol sup"
+  },
+  {
+    "id": 1652,
+    "name": "Hypomer eye drops"
+  },
+  {
+    "id": 1653,
+    "name": "Voxiquin 500mg tab"
+  },
+  {
+    "id": 1654,
+    "name": "Cranberry shactes"
+  },
+  {
+    "id": 1655,
+    "name": "Indokast 5mg tab"
+  },
+  {
+    "id": 1656,
+    "name": "Cipotic ear drops"
+  },
+  {
+    "id": 1657,
+    "name": "Lice o nil cream"
+  },
+  {
+    "id": 1658,
+    "name": "Dolgina 60mg tab"
+  },
+  {
+    "id": 1659,
+    "name": "Leflox 250mg tab"
+  },
+  {
+    "id": 1660,
+    "name": "Starcox 60mg tab"
+  },
+  {
+    "id": 1661,
+    "name": "Pasmolex sup"
+  },
+  {
+    "id": 1662,
+    "name": "Hydrcortisone cream"
+  },
+  {
+    "id": 1663,
+    "name": "Folic acid zjan tab"
+  },
+  {
+    "id": 1664,
+    "name": "Pelton C sup"
+  },
+  {
+    "id": 1665,
+    "name": "Sita Met 50/500mg tab"
+  },
+  {
+    "id": 1666,
+    "name": "Zyrtec tab"
+  },
+  {
+    "id": 1667,
+    "name": "Scicon MR 30mg tab"
+  },
+  {
+    "id": 1668,
+    "name": "Enfys 20mg cap"
+  },
+  {
+    "id": 1669,
+    "name": "Abacus 100mg tab"
+  },
+  {
+    "id": 1670,
+    "name": "Cipval 500mg tab"
+  },
+  {
+    "id": 1671,
+    "name": "Zyloric 300mg tab"
+  },
+  {
+    "id": 1672,
+    "name": "Brethin sup"
+  },
+  {
+    "id": 1673,
+    "name": "Klint 400mg tab"
+  },
+  {
+    "id": 1674,
+    "name": "Zeftrox 2g inj"
+  },
+  {
+    "id": 1675,
+    "name": "Amgydex eye drops"
+  },
+  {
+    "id": 1676,
+    "name": "Abacus 40mg sup"
+  },
+  {
+    "id": 1677,
+    "name": "Ivadin 5mg tab"
+  },
+  {
+    "id": 1678,
+    "name": "Metodine DF tab"
+  },
+  {
+    "id": 1679,
+    "name": "Ezium 40mg cap"
+  },
+  {
+    "id": 1680,
+    "name": "Metodine sup"
+  },
+  {
+    "id": 1681,
+    "name": "Misar H 40/12.5 tab"
+  },
+  {
+    "id": 1682,
+    "name": "Lactogen 1large"
+  },
+  {
+    "id": 1683,
+    "name": "Inhlition mask children"
+  },
+  {
+    "id": 1684,
+    "name": "Glimryl 4mg tab"
+  },
+  {
+    "id": 1685,
+    "name": "Bonmin tab"
+  },
+  {
+    "id": 1686,
+    "name": "Maxima ds sup"
+  },
+  {
+    "id": 1687,
+    "name": "Betnelan tab"
+  },
+  {
+    "id": 1688,
+    "name": "Clobederm NN ointment"
+  },
+  {
+    "id": 1689,
+    "name": "Evopride plus 2/500mg tab"
+  },
+  {
+    "id": 1690,
+    "name": "Seran baam"
+  },
+  {
+    "id": 1691,
+    "name": "Brufen 200mg tab"
+  },
+  {
+    "id": 1692,
+    "name": "Extor 5/80mg tab"
+  },
+  {
+    "id": 1693,
+    "name": "Abacus 200mg tab"
+  },
+  {
+    "id": 1694,
+    "name": "Beflam 75mg tab"
+  },
+  {
+    "id": 1695,
+    "name": "Qbact 1g inj"
+  },
+  {
+    "id": 1696,
+    "name": "Rusufer inj"
+  },
+  {
+    "id": 1697,
+    "name": "Amlo q 10mg tab"
+  },
+  {
+    "id": 1698,
+    "name": "Lequix eye drops"
+  },
+  {
+    "id": 1699,
+    "name": "Maxit 50mg tab"
+  },
+  {
+    "id": 1700,
+    "name": "Fexet 180mg tab"
+  },
+  {
+    "id": 1701,
+    "name": "Healer 20mg cap otc"
+  },
+  {
+    "id": 1702,
+    "name": "Calcipan-T tab"
+  },
+  {
+    "id": 1703,
+    "name": "Magnett 200mg tab"
+  },
+  {
+    "id": 1704,
+    "name": "Tramal plus tab"
+  },
+  {
+    "id": 1705,
+    "name": "R/11000mI"
+  },
+  {
+    "id": 1706,
+    "name": "Glucovance 1000/5ma tab"
+  },
+  {
+    "id": 1707,
+    "name": "Qplex sup"
+  },
+  {
+    "id": 1708,
+    "name": "Neoprox 250mg tab"
+  },
+  {
+    "id": 1709,
+    "name": "Spasrid inj"
+  },
+  {
+    "id": 1710,
+    "name": "Hylixia sup"
+  },
+  {
+    "id": 1711,
+    "name": "Sofvasic 10mg tab"
+  },
+  {
+    "id": 1712,
+    "name": "Sitaglumet 50/500mg tab"
+  },
+  {
+    "id": 1713,
+    "name": "Motilium sup"
+  },
+  {
+    "id": 1714,
+    "name": "Santomet lotion"
+  },
+  {
+    "id": 1715,
+    "name": "Hydralin S/F sup"
+  },
+  {
+    "id": 1716,
+    "name": "Tacrozemus (tacrolimus) ointment"
+  },
+  {
+    "id": 1717,
+    "name": "Dowfylin 400mg cap"
+  },
+  {
+    "id": 1718,
+    "name": "Maricox 100mg tab"
+  },
+  {
+    "id": 1719,
+    "name": "Hycortisone 250mg inj"
+  },
+  {
+    "id": 1720,
+    "name": "Levoprid 50mg tab"
+  },
+  {
+    "id": 1721,
+    "name": "Titan 250mg iv inj"
+  },
+  {
+    "id": 1722,
+    "name": "Concor 5mg tab"
+  },
+  {
+    "id": 1723,
+    "name": "Movax 2mg tab"
+  },
+  {
+    "id": 1724,
+    "name": "Theragran -H tab"
+  },
+  {
+    "id": 1725,
+    "name": "Nibovo 2.5mg tab"
+  },
+  {
+    "id": 1726,
+    "name": "Surficol sup"
+  },
+  {
+    "id": 1727,
+    "name": "Klaricid XL 500mg tab"
+  },
+  {
+    "id": 1728,
+    "name": "Tercica 600mg tab"
+  },
+  {
+    "id": 1729,
+    "name": "Hilacta cap"
+  },
+  {
+    "id": 1730,
+    "name": "Benzibiotic 1.2 million inj"
+  },
+  {
+    "id": 1731,
+    "name": "Septran sup"
+  },
+  {
+    "id": 1732,
+    "name": "Contour 20mg cap"
+  },
+  {
+    "id": 1733,
+    "name": "Focin ds sup"
+  },
+  {
+    "id": 1734,
+    "name": "Pladix 100ml local"
+  },
+  {
+    "id": 1735,
+    "name": "Claritek XI 500mg tab"
+  },
+  {
+    "id": 1736,
+    "name": "Esante 40mg inj"
+  },
+  {
+    "id": 1737,
+    "name": "Famopsin 20mg tab"
+  },
+  {
+    "id": 1738,
+    "name": "Metodine DF sup"
+  },
+  {
+    "id": 1739,
+    "name": "Testoviron depot inj"
+  },
+  {
+    "id": 1740,
+    "name": "Lizotek 600mg tab"
+  },
+  {
+    "id": 1741,
+    "name": "Lite D3 softgel"
+  },
+  {
+    "id": 1742,
+    "name": "Antacid sup"
+  },
+  {
+    "id": 1743,
+    "name": "Tres-Orix sup"
+  },
+  {
+    "id": 1744,
+    "name": "Rashnil cream"
+  },
+  {
+    "id": 1745,
+    "name": "Z jan sweetner 300 tab"
+  },
+  {
+    "id": 1746,
+    "name": "Inmox eye drops"
+  },
+  {
+    "id": 1747,
+    "name": "Maxef 250mg iv inj"
+  },
+  {
+    "id": 1748,
+    "name": "Cof Rest woodword sup"
+  },
+  {
+    "id": 1749,
+    "name": "Calce shactes"
+  },
+  {
+    "id": 1750,
+    "name": "Lasoride tab"
+  },
+  {
+    "id": 1751,
+    "name": "Remethan 50mg tab"
+  },
+  {
+    "id": 1752,
+    "name": "Viophos-B sup"
+  },
+  {
+    "id": 1753,
+    "name": "Methycobal inj"
+  },
+  {
+    "id": 1754,
+    "name": "Famtaza 40mg tab"
+  },
+  {
+    "id": 1755,
+    "name": "Esante 40mg cap"
+  },
+  {
+    "id": 1756,
+    "name": "Ampicilin 500mg inj"
+  },
+  {
+    "id": 1757,
+    "name": "Orinase 3mg tab"
+  },
+  {
+    "id": 1758,
+    "name": "Sathi condom"
+  },
+  {
+    "id": 1759,
+    "name": "Zepres 5mg tab"
+  },
+  {
+    "id": 1760,
+    "name": "Comfy drops"
+  },
+  {
+    "id": 1761,
+    "name": "Betagenic cream"
+  },
+  {
+    "id": 1762,
+    "name": "Brufen ds sup"
+  },
+  {
+    "id": 1763,
+    "name": "Polybion Z cap"
+  },
+  {
+    "id": 1764,
+    "name": "Febrol ds sup"
+  },
+  {
+    "id": 1765,
+    "name": "Newday 5/160mg tab"
+  },
+  {
+    "id": 1766,
+    "name": "Droxaryl cream"
+  },
+  {
+    "id": 1767,
+    "name": "Crimaffin sup"
+  },
+  {
+    "id": 1768,
+    "name": "Clocit 50mg tab"
+  },
+  {
+    "id": 1769,
+    "name": "Polymalt F tab"
+  },
+  {
+    "id": 1770,
+    "name": "DX3 drops"
+  },
+  {
+    "id": 1771,
+    "name": "Actifed tab"
+  },
+  {
+    "id": 1772,
+    "name": "Calamox DOU sup"
+  },
+  {
+    "id": 1773,
+    "name": "Scabix soap"
+  },
+  {
+    "id": 1774,
+    "name": "Betasalic cream"
+  },
+  {
+    "id": 1775,
+    "name": "Methacolan inj"
+  },
+  {
+    "id": 1776,
+    "name": "Mepore 2\""
+  },
+  {
+    "id": 1777,
+    "name": "Maltofer drops"
+  },
+  {
+    "id": 1778,
+    "name": "Tramal sr 100mg cap"
+  },
+  {
+    "id": 1779,
+    "name": "Azipos 500mg cap"
+  },
+  {
+    "id": 1780,
+    "name": "Amclav 625mg tab"
+  },
+  {
+    "id": 1781,
+    "name": "Skinoren cream"
+  },
+  {
+    "id": 1782,
+    "name": "Platrid Ap 75/75mg tab"
+  },
+  {
+    "id": 1783,
+    "name": "Tio veez 18mcg rotacaps"
+  },
+  {
+    "id": 1784,
+    "name": "Capoten 25mg tab"
+  },
+  {
+    "id": 1785,
+    "name": "Bytec 10mg tab"
+  },
+  {
+    "id": 1786,
+    "name": "Loprin 75mg tab"
+  },
+  {
+    "id": 1787,
+    "name": "Leflox 500mg tab"
+  },
+  {
+    "id": 1788,
+    "name": "Vitamin D inj"
+  },
+  {
+    "id": 1789,
+    "name": "Grasil 500mg inj"
+  },
+  {
+    "id": 1790,
+    "name": "Extor 10/160mg tab"
+  },
+  {
+    "id": 1791,
+    "name": "Monis 20mg tab"
+  },
+  {
+    "id": 1792,
+    "name": "Mixel 100mg sup"
+  },
+  {
+    "id": 1793,
+    "name": "Actifed Dm sup"
+  },
+  {
+    "id": 1794,
+    "name": "Sologesic extra tab"
+  },
+  {
+    "id": 1795,
+    "name": "Ofly V eye ointment"
+  },
+  {
+    "id": 1796,
+    "name": "Hydralin DM sup"
+  },
+  {
+    "id": 1797,
+    "name": "Maxpan 200mg sup"
+  },
+  {
+    "id": 1798,
+    "name": "Sustac 6.4mg tab"
+  },
+  {
+    "id": 1799,
+    "name": "Fansidar tab"
+  },
+  {
+    "id": 1800,
+    "name": "Ceridal 10mg tab"
+  },
+  {
+    "id": 1801,
+    "name": "Qsartan 50mg tab"
+  },
+  {
+    "id": 1802,
+    "name": "Synalar cream"
+  },
+  {
+    "id": 1803,
+    "name": "Digestine cap"
+  },
+  {
+    "id": 1804,
+    "name": "Carsel 25mg tab"
+  },
+  {
+    "id": 1805,
+    "name": "Acasia 500mg tab"
+  },
+  {
+    "id": 1806,
+    "name": "Amonia sultaion"
+  },
+  {
+    "id": 1807,
+    "name": "Scicon MR 60mg tab"
+  },
+  {
+    "id": 1808,
+    "name": "Cefia ds sup"
+  },
+  {
+    "id": 1809,
+    "name": "Anacin 250mg tab"
+  },
+  {
+    "id": 1810,
+    "name": "Polyfex eye omint"
+  },
+  {
+    "id": 1811,
+    "name": "Ossobon D tab"
+  },
+  {
+    "id": 1812,
+    "name": "Provate G ointment"
+  },
+  {
+    "id": 1813,
+    "name": "Sofvasic V 5/80mg tab"
+  },
+  {
+    "id": 1814,
+    "name": "Metomide sup"
+  },
+  {
+    "id": 1815,
+    "name": "Peds cream"
+  },
+  {
+    "id": 1816,
+    "name": "Efix 400mg cap"
+  },
+  {
+    "id": 1817,
+    "name": "Velosef 250mg inj"
+  },
+  {
+    "id": 1818,
+    "name": "Rova 20mg tab"
+  },
+  {
+    "id": 1819,
+    "name": "Froben 100mg tab"
+  },
+  {
+    "id": 1820,
+    "name": "Beltapro ointment"
+  },
+  {
+    "id": 1821,
+    "name": "Tramapar 100mg tab"
+  },
+  {
+    "id": 1822,
+    "name": "Calamox drops"
+  },
+  {
+    "id": 1823,
+    "name": "Bfl"
+  },
+  {
+    "id": 1824,
+    "name": "Gabica 75mg cap"
+  },
+  {
+    "id": 1825,
+    "name": "Thyroxin tab"
+  },
+  {
+    "id": 1826,
+    "name": "Avsar 10/160mg tab"
+  },
+  {
+    "id": 1827,
+    "name": "Serc 16mg tab"
+  },
+  {
+    "id": 1828,
+    "name": "Famila 28 tab"
+  },
+  {
+    "id": 1829,
+    "name": "Acefyl (large) sup"
+  },
+  {
+    "id": 1830,
+    "name": "Sulphakream N vaginal cream"
+  },
+  {
+    "id": 1831,
+    "name": "Piozer G 15/2 tab"
+  },
+  {
+    "id": 1832,
+    "name": "No spa 40mg tab"
+  },
+  {
+    "id": 1833,
+    "name": "Gentamicin 80mg inj tabroz"
+  },
+  {
+    "id": 1834,
+    "name": "Vildo met 50/850mg tab"
+  },
+  {
+    "id": 1835,
+    "name": "Orpase 400mg cap"
+  },
+  {
+    "id": 1836,
+    "name": "Risek 20mg Insta"
+  },
+  {
+    "id": 1837,
+    "name": "Spiromide 20mg tab"
+  },
+  {
+    "id": 1838,
+    "name": "Surlka sup"
+  },
+  {
+    "id": 1839,
+    "name": "Dyclo plus inj"
+  },
+  {
+    "id": 1840,
+    "name": "Augmentin 156mg sup"
+  },
+  {
+    "id": 1841,
+    "name": "Glinext mr 60mg tab"
+  },
+  {
+    "id": 1842,
+    "name": "Noregyn 5mg tab"
+  },
+  {
+    "id": 1843,
+    "name": "Duvel plus 50/1000mg tab"
+  },
+  {
+    "id": 1844,
+    "name": "Rotec 50mg tab"
+  },
+  {
+    "id": 1845,
+    "name": "Monteka 10mg tab"
+  },
+  {
+    "id": 1846,
+    "name": "Vermox sup"
+  },
+  {
+    "id": 1847,
+    "name": "Cef od 400mg cap"
+  },
+  {
+    "id": 1848,
+    "name": "Corbis 5mg tab"
+  },
+  {
+    "id": 1849,
+    "name": "Alp 0.25mg tab"
+  },
+  {
+    "id": 1850,
+    "name": "Zeenaryl 2mg tab"
+  },
+  {
+    "id": 1851,
+    "name": "Cifa 250mg sup"
+  },
+  {
+    "id": 1852,
+    "name": "Bromalex 3mg tab"
+  },
+  {
+    "id": 1853,
+    "name": "Ispaghol jar 500gram marhaba"
+  },
+  {
+    "id": 1854,
+    "name": "Getformin 1/500mg tab"
+  },
+  {
+    "id": 1855,
+    "name": "Froben 50mg tab"
+  },
+  {
+    "id": 1856,
+    "name": "Actim 10mg tab"
+  },
+  {
+    "id": 1857,
+    "name": "Lysovit sup"
+  },
+  {
+    "id": 1858,
+    "name": "Valium 10mg tab"
+  },
+  {
+    "id": 1859,
+    "name": "Cotton large"
+  },
+  {
+    "id": 1860,
+    "name": "Maxef 500mg iv inj"
+  },
+  {
+    "id": 1861,
+    "name": "Trusilk 2/0"
+  },
+  {
+    "id": 1862,
+    "name": "Gestofill sup"
+  },
+  {
+    "id": 1863,
+    "name": "Sline 500ml"
+  },
+  {
+    "id": 1864,
+    "name": "Zentel tab"
+  },
+  {
+    "id": 1865,
+    "name": "New D inj"
+  },
+  {
+    "id": 1866,
+    "name": "Polybion sup"
+  },
+  {
+    "id": 1867,
+    "name": "Zincat -OD sup"
+  },
+  {
+    "id": 1868,
+    "name": "Citanew 10mg tab"
+  },
+  {
+    "id": 1869,
+    "name": "E sal 40mg cap"
+  },
+  {
+    "id": 1870,
+    "name": "B complex inj"
+  },
+  {
+    "id": 1871,
+    "name": "Zopent 40mg tab"
+  },
+  {
+    "id": 1872,
+    "name": "Terbisil cream"
+  },
+  {
+    "id": 1873,
+    "name": "Co renitec 10/25mg tab"
+  },
+  {
+    "id": 1874,
+    "name": "Ghauze swab 10x10"
+  },
+  {
+    "id": 1875,
+    "name": "Macrobac 200mg sup"
+  },
+  {
+    "id": 1876,
+    "name": "Esopase 40mg cap"
+  },
+  {
+    "id": 1877,
+    "name": "Grasil 25mg inj"
+  },
+  {
+    "id": 1878,
+    "name": "Zeftrox 500mg inj"
+  },
+  {
+    "id": 1879,
+    "name": "Lidosporin ear drops"
+  },
+  {
+    "id": 1880,
+    "name": "Getryl 2mg tab"
+  },
+  {
+    "id": 1881,
+    "name": "Actim 2.5mg tab"
+  },
+  {
+    "id": 1882,
+    "name": "Atenolol 100mg tab"
+  },
+  {
+    "id": 1883,
+    "name": "Ibreat sup"
+  },
+  {
+    "id": 1884,
+    "name": "Texicol ex sup"
+  },
+  {
+    "id": 1885,
+    "name": "Byvas 2.5mg tab"
+  },
+  {
+    "id": 1886,
+    "name": "Heptocam 60ml sup"
+  },
+  {
+    "id": 1887,
+    "name": "Contamycin 100mg cap"
+  },
+  {
+    "id": 1888,
+    "name": "Nergab 75mg cap"
+  },
+  {
+    "id": 1889,
+    "name": "Costa 5% sup"
+  },
+  {
+    "id": 1890,
+    "name": "Wilgesic forte tab"
+  },
+  {
+    "id": 1891,
+    "name": "Ziclopel 4 cap"
+  },
+  {
+    "id": 1892,
+    "name": "Travid 200mg tab"
+  },
+  {
+    "id": 1893,
+    "name": "Broxol DM sup"
+  },
+  {
+    "id": 1894,
+    "name": "Meg of jr softgel"
+  },
+  {
+    "id": 1895,
+    "name": "Cefim 100mg sup"
+  },
+  {
+    "id": 1896,
+    "name": "Axesom 40mg cap"
+  },
+  {
+    "id": 1897,
+    "name": "Tenoret 50mg tab"
+  },
+  {
+    "id": 1898,
+    "name": "Moor 10mg tab"
+  },
+  {
+    "id": 1899,
+    "name": "Asthotifen tab"
+  },
+  {
+    "id": 1900,
+    "name": "Phenergan sup"
+  },
+  {
+    "id": 1901,
+    "name": "Canderel 100 tab"
+  },
+  {
+    "id": 1902,
+    "name": "Dermovate ointment"
+  },
+  {
+    "id": 1903,
+    "name": "Maxima 100mg sup"
+  },
+  {
+    "id": 1904,
+    "name": "Nebivol 5mg tab"
+  },
+  {
+    "id": 1905,
+    "name": "Sangobion sup"
+  },
+  {
+    "id": 1906,
+    "name": "Combivair 400mg cap"
+  },
+  {
+    "id": 1907,
+    "name": "Flu Z sup"
+  },
+  {
+    "id": 1908,
+    "name": "Phlodic 75mg tab otc"
+  }
+]
