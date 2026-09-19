@@ -10,4 +10,3 @@ copyFileSync('dist/index.html', 'index.html');
 mkdirSync('assets', { recursive: true });
 cpSync('dist/assets', 'assets', { recursive: true });
 copyFileSync('public/icon.svg', 'icon.svg');
-copyFileSync('public/medicines.json', 'medicines.json');
