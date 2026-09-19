@@ -1,15 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap');
 
-:root { font-family: Manrope, sans-serif; color: #171717; background: #f3f1ed; font-synthesis: none; --ink: #171717; --muted: #77736c; --line: #d9d5cd; --paper: #fffefa; }
+:root { font-family: Manrope, sans-serif; color: #171717; background: #f3f1ed; font-synthesis: none; --ink: #171717; --muted: #77736c; --line: #d9d5cd; --paper: #fffefa; --surface: #f3f1ed; --header: rgba(255,254,250,.9); --preview: #e8e5df; }
+:root[data-theme='dark'] { color: #f3f1ed; background: #17191a; --ink: #f3f1ed; --muted: #aaa79f; --line: #3c403f; --paper: #222625; --surface: #17191a; --header: rgba(24,27,27,.94); --preview: #292d2c; }
 * { box-sizing: border-box; }
-body { margin: 0; min-width: 320px; background: #f3f1ed; }
+body { margin: 0; min-width: 320px; background: var(--surface); }
 button, input { font: inherit; }
 button { cursor: pointer; }
 .app-shell { min-height: 100vh; }
-.topbar { height: 78px; display: flex; align-items: center; gap: 12px; padding: 0 max(24px, calc((100vw - 1080px) / 2)); border-bottom: 1px solid var(--line); background: rgba(255,254,250,.9); }
+.topbar { height: 78px; display: flex; align-items: center; gap: 12px; padding: 0 max(24px, calc((100vw - 1080px) / 2)); border-bottom: 1px solid var(--line); background: var(--header); }
 .brand-mark { width: 32px; height: 32px; display: grid; place-items: center; color: #fff; background: var(--ink); font: 700 17px 'DM Mono', monospace; letter-spacing: -5px; padding-right: 5px; }
 .brand-name { margin: 0; font: 500 17px Georgia, serif; }
 .brand-caption, .eyebrow, .preview-heading { margin: 3px 0 0; color: var(--muted); font: 500 10px 'DM Mono', monospace; letter-spacing: .12em; text-transform: uppercase; }
+.theme-toggle { margin-left: auto; padding: 9px 11px; border: 1px solid var(--line); color: var(--ink); background: transparent; font-size: 11px; }
+.theme-toggle span { font-size: 15px; vertical-align: -1px; }
 .workspace { max-width: 1080px; margin: 0 auto; padding: 76px 24px 100px; }
 .intro { max-width: 620px; }
 .eyebrow { color: #a25d38; margin: 0 0 16px; }
@@ -33,11 +36,11 @@ input:focus { border-color: #a25d38; box-shadow: 0 0 0 3px rgba(162,93,56,.11); 
 .generate-button { width: 100%; margin-top: 22px; padding: 14px; border: 1px solid var(--ink); color: #fff; background: var(--ink); font-size: 12px; font-weight: 700; }
 .generate-button:hover { background: #a25d38; border-color: #a25d38; }
 .notice { margin: 12px 0 0; color: #a25d38; font-size: 11px; }
-.preview-panel { padding: 20px; border: 1px solid var(--line); background: #e8e5df; }
+.preview-panel { padding: 20px; border: 1px solid var(--line); background: var(--preview); }
 .preview-heading { display: flex; justify-content: space-between; margin: 0 0 14px; font-size: 9px; }
 .label { display: flex; min-height: 430px; padding: 40px 42px 36px; flex-direction: column; align-items: center; justify-content: flex-start; background: #fff; text-align: center; }
 .label h2 { margin: 0 0 28px; font: 500 clamp(25px, 4vw, 42px) Georgia, serif; letter-spacing: .04em; }
-.label svg { display: block; width: 100%; height: auto; min-height: 92px; }
+.label canvas { display: block; width: 100%; height: 92px; }
 .label-serial { margin: 17px 0 23px; font: 400 clamp(25px, 4vw, 39px) Arial, sans-serif; letter-spacing: .04em; }
 .label p { margin: 0 0 13px; font: 400 clamp(18px, 2.5vw, 27px) Arial, sans-serif; letter-spacing: .02em; }
 .preview-actions { display: flex; justify-content: flex-end; gap: 9px; margin-top: 14px; }

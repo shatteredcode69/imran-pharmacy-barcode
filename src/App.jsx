@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react';
 import JsBarcode from 'jsbarcode';
 
 const SERIAL_KEY = 'imran-pharmacy-next-serial-v2';
+const THEME_KEY = 'imran-pharmacy-theme-v1';
 
 function nextSerial() {
   const saved = Number(localStorage.getItem(SERIAL_KEY));
@@ -22,6 +23,10 @@ function formatExpiry(value) {
   return `${Number(day)}/${Number(month)}/${year}`;
 }
 
+function escapeHtml(value) {
+  return String(value).replace(/[&<>"']/g, (character) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#039;' })[character]);
+}
+
 function App() {
   const [medicine, setMedicine] = useState('');
   const [expiry, setExpiry] = useState('');
@@ -29,6 +34,12 @@ function App() {
   const [serialMode, setSerialMode] = useState('automatic');
   const [customSerial, setCustomSerial] = useState('');
   const [notice, setNotice] = useState('');
+  const [darkMode, setDarkMode] = useState(() => localStorage.getItem(THEME_KEY) === 'dark');
+
+  useEffect(() => {
+    document.documentElement.dataset.theme = darkMode ? 'dark' : 'light';
+    localStorage.setItem(THEME_KEY, darkMode ? 'dark' : 'light');
+  }, [darkMode]);
 
   const generate = (event) => {
     event.preventDefault();
@@ -74,6 +85,9 @@ function App() {
           <p className="brand-name">Imran pharmacy</p>
           <p className="brand-caption">Barcode generator</p>
         </div>
+        <button className="theme-toggle" type="button" onClick={() => setDarkMode((value) => !value)} aria-label={darkMode ? 'Switch to light mode' : 'Switch to dark mode'}>
+          <span aria-hidden="true">{darkMode ? '☼' : '☾'}</span> {darkMode ? 'Light' : 'Dark'}
+        </button>
       </header>
 
       <section className="workspace">
@@ -119,7 +133,7 @@ function LabelPreview({ medicine, expiry, serial }) {
 
   useEffect(() => {
     if (!barcodeRef.current) return;
-    JsBarcode(barcodeRef.current, serial, {
+  JsBarcode(barcodeRef.current, serial, {
       format: 'CODE128',
       width: 2.25,
       height: 82,
@@ -130,7 +144,7 @@ function LabelPreview({ medicine, expiry, serial }) {
     });
   }, [serial]);
 
-  const download = () => {
+  const download = async () => {
     const canvas = document.createElement('canvas');
     canvas.width = 900;
     canvas.height = 650;
@@ -149,17 +163,33 @@ function LabelPreview({ medicine, expiry, serial }) {
     context.fillText(`Exp  ${formatExpiry(expiry)}`, 450, 535);
     const link = document.createElement('a');
     link.download = `imran-pharmacy-${serial}.png`;
-    link.href = canvas.toDataURL('image/png');
+    const blob = await new Promise((resolve) => canvas.toBlob(resolve, 'image/png'));
+    if (!blob) return;
+    link.href = URL.createObjectURL(blob);
+    document.body.appendChild(link);
     link.click();
+    link.remove();
+    setTimeout(() => URL.revokeObjectURL(link.href), 1000);
   };
 
   const print = () => {
-    const printWindow = window.open('', '_blank', 'width=700,height=600');
-    if (!printWindow) return;
-    printWindow.document.write(`<html><head><title>Imran pharmacy ${serial}</title><style>body{margin:0;display:grid;place-items:center;min-height:100vh} .label{width:90mm;padding:8mm;text-align:center;font-family:Arial,sans-serif} img{width:100%;height:auto} h1{font:500 25px Georgia,serif;margin:0 0 8mm} .serial{font-size:24px;margin:5mm 0} p{font-size:19px;margin:4mm 0}</style></head><body><div class="label"><h1>Imran pharmacy</h1><img src="${barcodeRef.current.toDataURL()}" /><div class="serial">${serial}</div><p>${medicine}</p><p>Exp&nbsp;&nbsp;${formatExpiry(expiry)}</p></div></body></html>`);
-    printWindow.document.close();
-    printWindow.focus();
-    printWindow.print();
+    const frame = document.createElement('iframe');
+    frame.title = 'Print barcode label';
+    frame.style.position = 'fixed';
+    frame.style.right = '100%';
+    frame.style.bottom = '100%';
+    frame.style.width = '1px';
+    frame.style.height = '1px';
+    frame.style.border = '0';
+    document.body.appendChild(frame);
+    const printDocument = frame.contentDocument;
+    printDocument.write(`<html><head><title>Imran pharmacy ${serial}</title><style>body{margin:0;display:grid;place-items:center;min-height:100vh} .label{width:90mm;padding:8mm;text-align:center;font-family:Arial,sans-serif} img{width:100%;height:auto} h1{font:500 25px Georgia,serif;margin:0 0 8mm} .serial{font-size:24px;margin:5mm 0} p{font-size:19px;margin:4mm 0}</style></head><body><div class="label"><h1>Imran pharmacy</h1><img src="${barcodeRef.current.toDataURL()}" /><div class="serial">${serial}</div><p>${escapeHtml(medicine)}</p><p>Exp&nbsp;&nbsp;${formatExpiry(expiry)}</p></div></body></html>`);
+    printDocument.close();
+    setTimeout(() => {
+      frame.contentWindow.focus();
+      frame.contentWindow.print();
+      frame.remove();
+    }, 100);
   };
 
   return (
@@ -167,7 +197,7 @@ function LabelPreview({ medicine, expiry, serial }) {
       <div className="preview-heading"><span>LABEL PREVIEW</span><span>CODE 128</span></div>
       <div className="label">
         <h2>Imran pharmacy</h2>
-        <svg ref={barcodeRef} aria-label={`Barcode ${serial}`} />
+        <canvas ref={barcodeRef} aria-label={`Barcode ${serial}`} role="img" />
         <strong className="label-serial">{serial}</strong>
         <p>{medicine}</p>
         <p>Exp&nbsp;&nbsp;{formatExpiry(expiry)}</p>
