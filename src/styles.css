@@ -24,6 +24,12 @@ input:focus { border-color: #a25d38; box-shadow: 0 0 0 3px rgba(162,93,56,.11); 
 .serial-note { display: flex; align-items: center; justify-content: space-between; padding: 14px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
 .serial-note span { color: var(--muted); font-size: 12px; }
 .serial-note strong { font: 500 19px 'DM Mono', monospace; }
+.serial-options { margin: 0 0 18px; padding: 0; border: 0; }
+.serial-options legend { margin-bottom: 9px; font-size: 12px; font-weight: 700; }
+.mode-buttons { display: grid; grid-template-columns: repeat(3, 1fr); gap: 5px; }
+.mode-buttons button { padding: 9px 5px; border: 1px solid var(--line); color: var(--muted); background: var(--paper); font-size: 10px; }
+.mode-buttons button.selected { border-color: var(--ink); color: var(--ink); background: #e8e5df; font-weight: 700; }
+.custom-serial { margin: 9px 0 0; }
 .generate-button { width: 100%; margin-top: 22px; padding: 14px; border: 1px solid var(--ink); color: #fff; background: var(--ink); font-size: 12px; font-weight: 700; }
 .generate-button:hover { background: #a25d38; border-color: #a25d38; }
 .notice { margin: 12px 0 0; color: #a25d38; font-size: 11px; }

@@ -8,6 +8,10 @@ function nextSerial() {
   return saved > 0 ? saved : 90;
 }
 
+function randomSerial() {
+  return Math.floor(Math.random() * 999) + 1;
+}
+
 function formatSerial(value) {
   return String(value).padStart(3, '0');
 }
@@ -22,11 +26,9 @@ function App() {
   const [medicine, setMedicine] = useState('');
   const [expiry, setExpiry] = useState('');
   const [serial, setSerial] = useState(() => nextSerial());
+  const [serialMode, setSerialMode] = useState('automatic');
+  const [customSerial, setCustomSerial] = useState('');
   const [notice, setNotice] = useState('');
-
-  useEffect(() => {
-    localStorage.setItem(SERIAL_KEY, String(serial + 1));
-  }, [serial]);
 
   const generate = (event) => {
     event.preventDefault();
@@ -35,16 +37,34 @@ function App() {
       setNotice('Enter a medicine name first.');
       return;
     }
+    let selectedSerial;
+    if (serialMode === 'custom') {
+      if (!/^\d{1,3}$/.test(customSerial)) {
+        setNotice('Enter a serial from 0 to 999.');
+        return;
+      }
+      selectedSerial = Number(customSerial);
+    } else if (serialMode === 'random') {
+      selectedSerial = randomSerial();
+    } else {
+      selectedSerial = nextSerial();
+      localStorage.setItem(SERIAL_KEY, String(selectedSerial + 1));
+    }
     setMedicine(name);
-    setSerial(nextSerial());
+    setSerial(selectedSerial);
     setNotice('Barcode ready.');
   };
 
   const reset = () => {
     setMedicine('');
     setExpiry('');
+    setSerialMode('automatic');
+    setCustomSerial('');
+    setSerial(nextSerial());
     setNotice('');
   };
+
+  const previewSerial = serialMode === 'custom' && customSerial ? Number(customSerial) : serial;
 
   return (
     <main className="app-shell">
@@ -71,12 +91,21 @@ function App() {
             <label htmlFor="expiry">Expiry date <span>optional</span></label>
             <input id="expiry" type="date" value={expiry} onChange={(event) => setExpiry(event.target.value)} />
 
-            <div className="serial-note"><span>Next serial</span><strong>{formatSerial(serial)}</strong></div>
+            <fieldset className="serial-options">
+              <legend>Serial number</legend>
+              <div className="mode-buttons">
+                <button type="button" className={serialMode === 'automatic' ? 'selected' : ''} onClick={() => setSerialMode('automatic')}>Automatic</button>
+                <button type="button" className={serialMode === 'custom' ? 'selected' : ''} onClick={() => setSerialMode('custom')}>Custom</button>
+                <button type="button" className={serialMode === 'random' ? 'selected' : ''} onClick={() => { setSerialMode('random'); setSerial(randomSerial()); }}>Random</button>
+              </div>
+              {serialMode === 'custom' && <input className="custom-serial" inputMode="numeric" maxLength="3" value={customSerial} onChange={(event) => setCustomSerial(event.target.value.replace(/\D/g, ''))} placeholder="e.g. 090" aria-label="Custom serial number" />}
+            </fieldset>
+            <div className="serial-note"><span>{serialMode === 'automatic' ? 'Next serial' : serialMode === 'random' ? 'Random serial' : 'Selected serial'}</span><strong>{formatSerial(serialMode === 'custom' && customSerial ? Number(customSerial) : serial)}</strong></div>
             <button className="generate-button" type="submit">Generate barcode</button>
             {notice && <p className="notice" role="status">{notice}</p>}
           </form>
 
-          <LabelPreview medicine={medicine.trim() || 'Your medicine'} expiry={expiry} serial={formatSerial(serial)} />
+          <LabelPreview medicine={medicine.trim() || 'Your medicine'} expiry={expiry} serial={formatSerial(previewSerial)} />
         </div>
 
         <button className="clear-button" type="button" onClick={reset}>Clear fields</button>
